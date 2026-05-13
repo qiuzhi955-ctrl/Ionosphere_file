@@ -1,0 +1,244 @@
+[
+  {
+    "source": "arXiv-physics.space-ph",
+    "title": "Dynamic Alignment: A Fragile Survival Effect",
+    "link": "https://arxiv.org/abs/2605.11305",
+    "arxiv_id": "2605.11305",
+    "published": null,
+    "summary": "arXiv:2605.11305v1 Announce Type: cross \nAbstract: Dynamic alignment in magnetohydrodynamic (MHD) turbulence is usually interpreted as a cascade-wide tendency of Elsasser increments to become increasingly collinear at smaller scales. We argue instead that the standard measurements mainly detect a conditional survival effect of intense events. In high-resolution Johns Hopkins MHD simulations, the typical folded Elsasser-increment angle remains only modestly below the random-orientation baseline and shows no evidence for a rigid, monotone, volume-filling ordering of the cascade. Much smaller ang",
+    "pdf_url": "https://arxiv.org/pdf/2605.11305.pdf",
+    "abs_url": "https://arxiv.org/abs/2605.11305"
+  },
+  {
+    "source": "arXiv-eess.SP",
+    "title": "Improving D-Optimal Sensor Placement for Bearing-Only Localization via Maximum-Entropy Reweighting",
+    "link": "https://arxiv.org/abs/2605.11116",
+    "arxiv_id": "2605.11116",
+    "published": null,
+    "summary": "arXiv:2605.11116v1 Announce Type: new \nAbstract: In this paper, we present a two-layer architecture for bearing-only sensor placement that improves upon classical D-optimal design. The first layer reweights particles by minimizing Kullback-Leibler divergence from the current distribution subject to a distributional accuracy bound, concentrating mass on regions where the posterior is likely to settle, without reference to the sensor model. The second layer performs D-optimal sensor placement with respect to the reweighted Fisher information matrix, steering sensors toward geometrically informat",
+    "pdf_url": "https://arxiv.org/pdf/2605.11116.pdf",
+    "abs_url": "https://arxiv.org/abs/2605.11116"
+  },
+  {
+    "source": "arXiv-eess.SP",
+    "title": "Design of a validation methodology for a prototype wristband for capturing muscle signals and upper limb movement",
+    "link": "https://arxiv.org/abs/2605.11148",
+    "arxiv_id": "2605.11148",
+    "published": null,
+    "summary": "arXiv:2605.11148v1 Announce Type: new \nAbstract: Surface electromyography (sEMG) is a noninvasive technique widely used to control myoelectric prostheses and other human-machine interfaces. However, the high cost of commercial systems limits accessibility in academic and research environments, especially in developing countries. This study presents a validation protocol for a low-cost eight-electrode sEMG wristband prototype based on IEC 60601 and ANSI/AAMI EC13 standards. The protocol includes electrical safety tests, such as leakage current measurement, insulation evaluation, and continuity ",
+    "pdf_url": "https://arxiv.org/pdf/2605.11148.pdf",
+    "abs_url": "https://arxiv.org/abs/2605.11148"
+  },
+  {
+    "source": "arXiv-eess.SP",
+    "title": "Assessment of Time-of-Arrival Estimation Methods for Impact Detection in Isotropic Plates using Piezoceramic Sensors",
+    "link": "https://arxiv.org/abs/2605.11763",
+    "arxiv_id": "2605.11763",
+    "published": null,
+    "summary": "arXiv:2605.11763v1 Announce Type: new \nAbstract: This work describes and assesses different methods for estimating the time-of-arrival (TOA) of impact-induced waves in isotropic plate-like structures. The methods considered include threshold crossing (TC), continuous wavelet transform (CWT), short/long term average (SLA), modified energy ratio (MER), and the Akaike information criterion (AIC). Their advantages, limitations, and sensitivities to method-specific parameters are systematically investigated. The assessment is based on synthetic data from transient finite element simulations that ar",
+    "pdf_url": "https://arxiv.org/pdf/2605.11763.pdf",
+    "abs_url": "https://arxiv.org/abs/2605.11763"
+  },
+  {
+    "source": "arXiv-eess.SP",
+    "title": "Long-Range Backscatter: A Bottom-Up Approach",
+    "link": "https://arxiv.org/abs/2605.11811",
+    "arxiv_id": "2605.11811",
+    "published": null,
+    "summary": "arXiv:2605.11811v1 Announce Type: new \nAbstract: Continued progress towards energy-neutral Internet of Things (IoT) nodes expose the wireless communication link as the dominant energy bottleneck. While low-power wide-area network (LPWAN) technologies achieve long-range communication with multiple years of battery life, their active radios hinder reaching full energy neutrality. Long-range backscatter communication emerged as a key enabler, reaching one to three order of magnitude lower power consumption. New advancements leverage concepts from active radio systems such as chirp spread spectrum",
+    "pdf_url": "https://arxiv.org/pdf/2605.11811.pdf",
+    "abs_url": "https://arxiv.org/abs/2605.11811"
+  },
+  {
+    "source": "arXiv-eess.SP",
+    "title": "PointNeRT: A Physics Aware Neural Ray Tracing Surrogate for Propagation Channel Modeling",
+    "link": "https://arxiv.org/abs/2605.11828",
+    "arxiv_id": "2605.11828",
+    "published": null,
+    "summary": "arXiv:2605.11828v1 Announce Type: new \nAbstract: Ray tracing (RT) has emerged as a key tool for propagation channel modeling and network planning. Conventional RT is based on electromagnetic (EM) wave theory and its application relies on detailed mesh-based environment representations and material properties. In realistic environments, limited environmental geometry and material uncertainties hinder its scalability to complex scenarios. In this paper, we propose a novel physics aware neural RT surrogate named PointNeRT to address these limitations. The proposed model directly takes point cloud",
+    "pdf_url": "https://arxiv.org/pdf/2605.11828.pdf",
+    "abs_url": "https://arxiv.org/abs/2605.11828"
+  },
+  {
+    "source": "arXiv-eess.SP",
+    "title": "Pretraining Strategies and Scaling for ECG Foundation Models: A Systematic Study",
+    "link": "https://arxiv.org/abs/2605.12241",
+    "arxiv_id": "2605.12241",
+    "published": null,
+    "summary": "arXiv:2605.12241v1 Announce Type: new \nAbstract: Specialized foundation models are beginning to emerge in various medical subdomains, but pretraining methodologies and parametric scaling with the size of the pretraining dataset are rarely assessed systematically and in a like-for-like manner. This work focuses on foundation models for electrocardiography (ECG) data, one of the most widely captured physiological time series world-wide. We present a comprehensive assessment of pretraining methodologies, covering five different contrastive and non-contrastive self-supervised learning objectives f",
+    "pdf_url": "https://arxiv.org/pdf/2605.12241.pdf",
+    "abs_url": "https://arxiv.org/abs/2605.12241"
+  },
+  {
+    "source": "arXiv-eess.SP",
+    "title": "Enabling AI-Native Mobility in 6G: A Real-World Dataset for Handover, Beam Management, and Timing Advance",
+    "link": "https://arxiv.org/abs/2605.12453",
+    "arxiv_id": "2605.12453",
+    "published": null,
+    "summary": "arXiv:2605.12453v1 Announce Type: new \nAbstract: To address the issues of high interruption time and measurement report overhead under user equipment (UE) mobility especially in high speed 5G use cases the use of AI/ML techniques (AI/ML beam management and mobility procedures) have been proposed. These techniques rely heavily on data that are most often simulated for various scenarios and do not accurately reflect real deployment behavior or user traffic patterns. Therefore, there is an utmost need for realistic datasets under various conditions. This work presents a dataset collected from a c",
+    "pdf_url": "https://arxiv.org/pdf/2605.12453.pdf",
+    "abs_url": "https://arxiv.org/abs/2605.12453"
+  },
+  {
+    "source": "arXiv-eess.SP",
+    "title": "Sensor Design for Accuracy-Bounded Estimation via Maximum-Entropy Likelihood Synthesis",
+    "link": "https://arxiv.org/abs/2605.11120",
+    "arxiv_id": "2605.11120",
+    "published": null,
+    "summary": "arXiv:2605.11120v1 Announce Type: cross \nAbstract: Designing the sensing architecture for large-scale spatio-temporal systems is hard when accuracy requirements are specified but sensor models are uncertain or unavailable. Classical design treats sensor placement and estimation sequentially, requiring valid forward models for each sensing modality. This paper inverts the design flow: given an error budget, synthesize the measurement likelihood that enforces it while injecting minimal information beyond the dynamical prior. The likelihood is constructed by constrained optimization: among all po",
+    "pdf_url": "https://arxiv.org/pdf/2605.11120.pdf",
+    "abs_url": "https://arxiv.org/abs/2605.11120"
+  },
+  {
+    "source": "arXiv-eess.SP",
+    "title": "Leveraging Non-Equilibrium ECRAM Dynamics for Short-Term Plasticity in Neuromorphic Circuits",
+    "link": "https://arxiv.org/abs/2605.11243",
+    "arxiv_id": "2605.11243",
+    "published": null,
+    "summary": "arXiv:2605.11243v1 Announce Type: cross \nAbstract: Short-term plasticity (STP) is fundamental to temporal information processing in biological neural systems but remains difficult to realize efficiently in neuromorphic hardware. Memristive electrochemical random-access memory (ECRAM) devices naturally exhibit non-equilibrium ionic dynamics that produce transient conductance modulation; however, these behaviors are typically treated as undesirable variability or tolerated as side effects in memory-centric computing paradigms. In this work, we instead transform these volatile dynamics from a tol",
+    "pdf_url": "https://arxiv.org/pdf/2605.11243.pdf",
+    "abs_url": "https://arxiv.org/abs/2605.11243"
+  },
+  {
+    "source": "arXiv-eess.SP",
+    "title": "NexOP: Joint Optimization of NEX-Aware k-space Sampling and Image Reconstruction for Low-Field MRI",
+    "link": "https://arxiv.org/abs/2605.11583",
+    "arxiv_id": "2605.11583",
+    "published": null,
+    "summary": "arXiv:2605.11583v1 Announce Type: cross \nAbstract: Modern low-field magnetic resonance imaging (MRI) technology offers a compelling alternative to standard high-field MRI, with portable, low-cost systems. However, its clinical utility is limited by a low Signal-to-Noise Ratio (SNR), which hampers diagnostic image quality. A common approach to increase SNR is through repetitive signal acquisitions, known as NEX, but this results in excessively long scan durations. Although recent work has introduced methods to accelerate MRI scans through k-space sampling optimization, the NEX dimension remains",
+    "pdf_url": "https://arxiv.org/pdf/2605.11583.pdf",
+    "abs_url": "https://arxiv.org/abs/2605.11583"
+  },
+  {
+    "source": "arXiv-eess.SP",
+    "title": "Partial Model Sharing Improves Byzantine Resilience in Federated Conformal Prediction",
+    "link": "https://arxiv.org/abs/2605.11684",
+    "arxiv_id": "2605.11684",
+    "published": null,
+    "summary": "arXiv:2605.11684v1 Announce Type: cross \nAbstract: We propose a Byzantine-resilient federated conformal prediction (FCP) method that leverages partial model sharing, where only a subset of model parameters is exchanged each round. Unlike existing robust FCP approaches that primarily harden the calibration stage, our method protects both the federated training and conformal calibration phases. During training, partial sharing inherently restricts the attack surface and attenuates poisoned updates while reducing communication. During calibration, clients compress their non-conformity scores into",
+    "pdf_url": "https://arxiv.org/pdf/2605.11684.pdf",
+    "abs_url": "https://arxiv.org/abs/2605.11684"
+  },
+  {
+    "source": "arXiv-eess.SP",
+    "title": "Spectral Vision Transformer for Efficient Tokenization with Limited Data",
+    "link": "https://arxiv.org/abs/2605.12026",
+    "arxiv_id": "2605.12026",
+    "published": null,
+    "summary": "arXiv:2605.12026v1 Announce Type: cross \nAbstract: We propose a novel spectral vision transformer architecture for efficient tokenization in limited data, with an emphasis on medical imaging. We outline convenient theoretical properties arising from the choice of basis including spatial invariance and optimal signal-to-noise ratio. We show reduced complexity arising from the spectral projection compared to spatial vision transformers. We show equitable or superior performance with a reduced number of parameters as compared to a variety of models including compact and standard vision transforme",
+    "pdf_url": "https://arxiv.org/pdf/2605.12026.pdf",
+    "abs_url": "https://arxiv.org/abs/2605.12026"
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Introducing Reflected GNSS TEC Data Into ANCHOR Ionospheric Data Assimilation Model",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004827?af=R",
+    "published": "2026-05-07",
+    "summary": "Space Weather, Volume 24, Issue 5, May 2026."
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Validation of VERB‐3D Simulation Results in Response to the COSPAR ISWAT Challenge",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026SW004934?af=R",
+    "published": "2026-05-05",
+    "summary": "Space Weather, Volume 24, Issue 5, May 2026."
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Storm‐Time Dst Forecast: An Innovative Approach",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004926?af=R",
+    "published": "2026-05-05",
+    "summary": "Space Weather, Volume 24, Issue 5, May 2026."
+  },
+  {
+    "source": "AGU - AGU-Earth and Space Science",
+    "title": "Post‐Acquisition Image‐Based Localization for High Resolution Thermal and Visible/Shortwave Infrared Images With Application to the Lunar Trailblazer Mission",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EA004594?af=R",
+    "published": "2026-05-04",
+    "summary": "Earth and Space Science, Volume 13, Issue 5, May 2026."
+  },
+  {
+    "source": "AGU - AGU-Earth and Space Science",
+    "title": "Seafloor Sediments, Morphologic Features, and Geotechnical Properties of Harrison Bay in the Alaskan Beaufort Sea",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EA004261?af=R",
+    "published": "2026-04-30",
+    "summary": "Earth and Space Science, Volume 13, Issue 5, May 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "No Pinching: Topological Constraints on Polar Cap Patch Formation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034721?af=R",
+    "published": "2026-05-09",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 5, May 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Storm‐Time Modulation of Ionospheric Midnight Collapses Over Arecibo: Role of Ion Drift Components and Thermospheric Tides",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA035011?af=R",
+    "published": "2026-05-08",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 5, May 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Detection and Modeling of Co‐Seismic Ionospheric Disturbances Induced by the 2024 Mw 6.6 Deep‐Focus Earthquake in Brazil",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035163?af=R",
+    "published": "2026-05-08",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 5, May 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Drivers of Mid‐Latitude Quiet‐Time Longitude Variations in Ionospheric Density",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034581?af=R",
+    "published": "2026-05-05",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 5, May 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "GNSS‐TEC Driven E‐CHAIM for Enhanced PALSAR Ionospheric Tomography",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035056?af=R",
+    "published": "2026-05-05",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 5, May 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Interhemispheric Asymmetries in the Large‐Scale Traveling Atmospheric and Ionospheric Disturbances During the 5–6 August 2011 Geomagnetic Storm",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034740?af=R",
+    "published": "2026-05-04",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 5, May 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Detection of Equatorial Plasma Bubbles Using the COSMIC‐2 Rate of TEC Index",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034739?af=R",
+    "published": "2026-05-02",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 5, May 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Solar Orbiter in Venus' Ionosphere: Observations From the 4th Flyby",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034813?af=R",
+    "published": "2026-04-30",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 5, May 2026."
+  },
+  {
+    "source": "Science - Science",
+    "title": "In the remote Amazon, locals are saving a giant fish—and helping their villages",
+    "link": "https://www.science.org/content/article/remote-amazon-locals-are-saving-giant-fish-and-helping-their-villages",
+    "published": "2026-05-07",
+    "summary": "Project has brought income and electricity while protecting wide swaths of tropical forest"
+  },
+  {
+    "source": "Science - Science",
+    "title": "Magic mushroom compound shows promise against cocaine addiction",
+    "link": "https://www.science.org/content/article/magic-mushroom-compound-shows-promise-against-cocaine-addiction",
+    "published": "2026-05-07",
+    "summary": "Small study that prioritized Black and low-income participants yields “remarkable” results"
+  },
+  {
+    "source": "Science - Science",
+    "title": "Intermetallic nanoassemblies potentiate systemic STING activation | Science",
+    "link": "https://www.science.org/doi/10.1126/science.adx1893",
+    "published": "2026-05-07",
+    "summary": "Natural systems use metal ions to form ordered structures that regulate biological processes, inspiring the rational design of nanotherapeutics. The cyclic guanosine monophosphate–adenosine monophosphate synthase–stimulator of interferon genes (cGAS-..."
+  }
+]
