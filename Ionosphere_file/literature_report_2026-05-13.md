@@ -1,56 +1,294 @@
 # 📡 电离层文献日报 2026-05-13
 
-> 自动爬取 | 关键词：电离层建模、电离层电子密度、电磁波传播、短波通信、短波信道建模
-> 数据来源：arXiv RSS (physics.space-ph / eess.SP)
+> 自动爬取 | 关键词：电离层建模、电磁波传播、短波通信、GNSS电离层、空间天气
 
----
 
 ## 📊 概览
 
-- **总计**: 5 篇相关论文
-- **arXiv physics.space-ph**: 2 篇（地磁暴与GIC）
-- **arXiv eess.SP**: 1 篇（地下中波传播）
-- **待补充**: AGU Space Weather、Nature、Science（RSS待实现）
+- **总计**: 29 篇新论文
+- **arXiv-physics.space-ph**: 1 篇
+- **arXiv-eess.SP**: 12 篇
+- **AGU - AGU-Space Weather**: 3 篇
+- **AGU - AGU-Earth and Space Science**: 2 篇
+- **AGU - AGU-JGR-Space Physics**: 8 篇
+- **Science - Science**: 3 篇
 
 ---
 
-## arXiv · physics.space-ph（2 篇）
+## arXiv-physics.space-ph（1 篇）
 
-### 1. GIC-Related Observations During the May 2024 Geomagnetic Storm in the United States
-- **作者**: 未显示（RSS格式）
-- **发布日期**: 2026-05-12
-- **arXiv**: https://arxiv.org/abs/2507.07009
-- **PDF**: https://arxiv.org/pdf/2507.07009.pdf
-- **摘要**: 2024年5月地磁暴是过去20年来最严重的地磁暴之一。本文整合了美国本土47个站点的GIC观测数据和17个地磁观测站的数据，对比了TVA电力公司计算的GIC模型预测与实测值。研究发现模型与实测GIC的相关系数r>0.8，预测效率在0.4-0.7之间。该研究对理解地磁暴期间电离层扰动对电网GIC的影响具有重要意义，是电离层-地磁耦合研究的重要参考资料。
+### 1. Dynamic Alignment: A Fragile Survival Effect
 
----
+**链接**: [摘要页](https://arxiv.org/abs/2605.11305) | [PDF](https://arxiv.org/pdf/2605.11305.pdf)
 
-### 2. An approximate Kappa generator for particle simulations
-- **作者**: 未显示
-- **发布日期**: 2026-05-12
-- **arXiv**: https://arxiv.org/abs/2602.05606
-- **PDF**: https://arxiv.org/pdf/2602.05606.pdf
-- **摘要**: 提出了一种用于Kappa速度分布函数的随机数生成器，适用于空间等离子体粒子模拟。Kappa分布在电离层等离子体建模中广泛应用，该方法可在GPU上高效运行，对电离层粒子模拟研究具有实用价值。
+**摘要**: arXiv:2605.11305v1 Announce Type: cross 
+Abstract: Dynamic alignment in magnetohydrodynamic (MHD) turbulence is usually interpreted as a cascade-wide tendency of Elsasser increments to become increasingly collinear at smaller scales. We argue instead that the standard measurements mainly detect a co...
 
 ---
 
-## arXiv · eess.SP / 电磁波传播相关（1 篇）
+## arXiv-eess.SP（12 篇）
 
-### 3. Subsurface Propagation Characteristics of Medium-Wave Electromagnetic Fields Revealed by Measurements in the Nanatsuoguchi Quarry
-- **作者**: 未显示
-- **发布日期**: 2026-05-12
-- **arXiv**: https://arxiv.org/abs/2605.09405
-- **PDF**: https://arxiv.org/pdf/2605.09405.pdf
-- **摘要**: 本文报道了在中波（MW，300kHz-3MHz）频段的地下岩体电磁波传播现场观测结果。研究发现MW广播信号（927kHz）可以在地下深处被接收到，而VHF-FM信号则迅速衰减。观测到垂直磁场分量Hz在地下持续存在，且随深度增加。这一发现无法用传统的Zenneck-Sommerfeld表面波理论解释，暗示了地下边界条件下特有的电磁场结构。该研究对短波/中波在非标准大气-地下环境中的传播机理具有重要启示，可作为电离层波导传播机理的类比参考。
+### 1. Improving D-Optimal Sensor Placement for Bearing-Only Localization via Maximum-Entropy Reweighting
 
----
+**链接**: [摘要页](https://arxiv.org/abs/2605.11116) | [PDF](https://arxiv.org/pdf/2605.11116.pdf)
 
-## ⚠️ 说明
-
-今日 arXiv API 限流，改为通过 RSS feed 获取最新论文。以上为 **2026-05-12 发布**的最新论文。
-
-AGU Space Weather、Nature、Science 的数据源正在接入中，明日将补充完整。
+**摘要**: arXiv:2605.11116v1 Announce Type: new 
+Abstract: In this paper, we present a two-layer architecture for bearing-only sensor placement that improves upon classical D-optimal design. The first layer reweights particles by minimizing Kullback-Leibler divergence from the current distribution subject to ...
 
 ---
 
-*报告生成时间: 2026-05-13 09:40 | 由 WorkBuddy 自动生成*
+### 2. Design of a validation methodology for a prototype wristband for capturing muscle signals and upper limb movement
+
+**链接**: [摘要页](https://arxiv.org/abs/2605.11148) | [PDF](https://arxiv.org/pdf/2605.11148.pdf)
+
+**摘要**: arXiv:2605.11148v1 Announce Type: new 
+Abstract: Surface electromyography (sEMG) is a noninvasive technique widely used to control myoelectric prostheses and other human-machine interfaces. However, the high cost of commercial systems limits accessibility in academic and research environments, espec...
+
+---
+
+### 3. Assessment of Time-of-Arrival Estimation Methods for Impact Detection in Isotropic Plates using Piezoceramic Sensors
+
+**链接**: [摘要页](https://arxiv.org/abs/2605.11763) | [PDF](https://arxiv.org/pdf/2605.11763.pdf)
+
+**摘要**: arXiv:2605.11763v1 Announce Type: new 
+Abstract: This work describes and assesses different methods for estimating the time-of-arrival (TOA) of impact-induced waves in isotropic plate-like structures. The methods considered include threshold crossing (TC), continuous wavelet transform (CWT), short/l...
+
+---
+
+### 4. Long-Range Backscatter: A Bottom-Up Approach
+
+**链接**: [摘要页](https://arxiv.org/abs/2605.11811) | [PDF](https://arxiv.org/pdf/2605.11811.pdf)
+
+**摘要**: arXiv:2605.11811v1 Announce Type: new 
+Abstract: Continued progress towards energy-neutral Internet of Things (IoT) nodes expose the wireless communication link as the dominant energy bottleneck. While low-power wide-area network (LPWAN) technologies achieve long-range communication with multiple ye...
+
+---
+
+### 5. PointNeRT: A Physics Aware Neural Ray Tracing Surrogate for Propagation Channel Modeling
+
+**链接**: [摘要页](https://arxiv.org/abs/2605.11828) | [PDF](https://arxiv.org/pdf/2605.11828.pdf)
+
+**摘要**: arXiv:2605.11828v1 Announce Type: new 
+Abstract: Ray tracing (RT) has emerged as a key tool for propagation channel modeling and network planning. Conventional RT is based on electromagnetic (EM) wave theory and its application relies on detailed mesh-based environment representations and material p...
+
+---
+
+### 6. Pretraining Strategies and Scaling for ECG Foundation Models: A Systematic Study
+
+**链接**: [摘要页](https://arxiv.org/abs/2605.12241) | [PDF](https://arxiv.org/pdf/2605.12241.pdf)
+
+**摘要**: arXiv:2605.12241v1 Announce Type: new 
+Abstract: Specialized foundation models are beginning to emerge in various medical subdomains, but pretraining methodologies and parametric scaling with the size of the pretraining dataset are rarely assessed systematically and in a like-for-like manner. This w...
+
+---
+
+### 7. Enabling AI-Native Mobility in 6G: A Real-World Dataset for Handover, Beam Management, and Timing Advance
+
+**链接**: [摘要页](https://arxiv.org/abs/2605.12453) | [PDF](https://arxiv.org/pdf/2605.12453.pdf)
+
+**摘要**: arXiv:2605.12453v1 Announce Type: new 
+Abstract: To address the issues of high interruption time and measurement report overhead under user equipment (UE) mobility especially in high speed 5G use cases the use of AI/ML techniques (AI/ML beam management and mobility procedures) have been proposed. Th...
+
+---
+
+### 8. Sensor Design for Accuracy-Bounded Estimation via Maximum-Entropy Likelihood Synthesis
+
+**链接**: [摘要页](https://arxiv.org/abs/2605.11120) | [PDF](https://arxiv.org/pdf/2605.11120.pdf)
+
+**摘要**: arXiv:2605.11120v1 Announce Type: cross 
+Abstract: Designing the sensing architecture for large-scale spatio-temporal systems is hard when accuracy requirements are specified but sensor models are uncertain or unavailable. Classical design treats sensor placement and estimation sequentially, requiri...
+
+---
+
+### 9. Leveraging Non-Equilibrium ECRAM Dynamics for Short-Term Plasticity in Neuromorphic Circuits
+
+**链接**: [摘要页](https://arxiv.org/abs/2605.11243) | [PDF](https://arxiv.org/pdf/2605.11243.pdf)
+
+**摘要**: arXiv:2605.11243v1 Announce Type: cross 
+Abstract: Short-term plasticity (STP) is fundamental to temporal information processing in biological neural systems but remains difficult to realize efficiently in neuromorphic hardware. Memristive electrochemical random-access memory (ECRAM) devices natural...
+
+---
+
+### 10. NexOP: Joint Optimization of NEX-Aware k-space Sampling and Image Reconstruction for Low-Field MRI
+
+**链接**: [摘要页](https://arxiv.org/abs/2605.11583) | [PDF](https://arxiv.org/pdf/2605.11583.pdf)
+
+**摘要**: arXiv:2605.11583v1 Announce Type: cross 
+Abstract: Modern low-field magnetic resonance imaging (MRI) technology offers a compelling alternative to standard high-field MRI, with portable, low-cost systems. However, its clinical utility is limited by a low Signal-to-Noise Ratio (SNR), which hampers di...
+
+---
+
+### 11. Partial Model Sharing Improves Byzantine Resilience in Federated Conformal Prediction
+
+**链接**: [摘要页](https://arxiv.org/abs/2605.11684) | [PDF](https://arxiv.org/pdf/2605.11684.pdf)
+
+**摘要**: arXiv:2605.11684v1 Announce Type: cross 
+Abstract: We propose a Byzantine-resilient federated conformal prediction (FCP) method that leverages partial model sharing, where only a subset of model parameters is exchanged each round. Unlike existing robust FCP approaches that primarily harden the calib...
+
+---
+
+### 12. Spectral Vision Transformer for Efficient Tokenization with Limited Data
+
+**链接**: [摘要页](https://arxiv.org/abs/2605.12026) | [PDF](https://arxiv.org/pdf/2605.12026.pdf)
+
+**摘要**: arXiv:2605.12026v1 Announce Type: cross 
+Abstract: We propose a novel spectral vision transformer architecture for efficient tokenization in limited data, with an emphasis on medical imaging. We outline convenient theoretical properties arising from the choice of basis including spatial invariance a...
+
+---
+
+## AGU - AGU-Space Weather（3 篇）
+
+### 1. Introducing Reflected GNSS TEC Data Into ANCHOR Ionospheric Data Assimilation Model
+
+**发布日期**: 2026-05-07
+**链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004827?af=R)
+
+**摘要**: Space Weather, Volume 24, Issue 5, May 2026.
+
+---
+
+### 2. Validation of VERB‐3D Simulation Results in Response to the COSPAR ISWAT Challenge
+
+**发布日期**: 2026-05-05
+**链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026SW004934?af=R)
+
+**摘要**: Space Weather, Volume 24, Issue 5, May 2026.
+
+---
+
+### 3. Storm‐Time Dst Forecast: An Innovative Approach
+
+**发布日期**: 2026-05-05
+**链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004926?af=R)
+
+**摘要**: Space Weather, Volume 24, Issue 5, May 2026.
+
+---
+
+## AGU - AGU-Earth and Space Science（2 篇）
+
+### 1. Post‐Acquisition Image‐Based Localization for High Resolution Thermal and Visible/Shortwave Infrared Images With Application to the Lunar Trailblazer Mission
+
+**发布日期**: 2026-05-04
+**链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EA004594?af=R)
+
+**摘要**: Earth and Space Science, Volume 13, Issue 5, May 2026.
+
+---
+
+### 2. Seafloor Sediments, Morphologic Features, and Geotechnical Properties of Harrison Bay in the Alaskan Beaufort Sea
+
+**发布日期**: 2026-04-30
+**链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EA004261?af=R)
+
+**摘要**: Earth and Space Science, Volume 13, Issue 5, May 2026.
+
+---
+
+## AGU - AGU-JGR-Space Physics（8 篇）
+
+### 1. No Pinching: Topological Constraints on Polar Cap Patch Formation
+
+**发布日期**: 2026-05-09
+**链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034721?af=R)
+
+**摘要**: Journal of Geophysical Research: Space Physics, Volume 131, Issue 5, May 2026.
+
+---
+
+### 2. Storm‐Time Modulation of Ionospheric Midnight Collapses Over Arecibo: Role of Ion Drift Components and Thermospheric Tides
+
+**发布日期**: 2026-05-08
+**链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA035011?af=R)
+
+**摘要**: Journal of Geophysical Research: Space Physics, Volume 131, Issue 5, May 2026.
+
+---
+
+### 3. Detection and Modeling of Co‐Seismic Ionospheric Disturbances Induced by the 2024 Mw 6.6 Deep‐Focus Earthquake in Brazil
+
+**发布日期**: 2026-05-08
+**链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035163?af=R)
+
+**摘要**: Journal of Geophysical Research: Space Physics, Volume 131, Issue 5, May 2026.
+
+---
+
+### 4. Drivers of Mid‐Latitude Quiet‐Time Longitude Variations in Ionospheric Density
+
+**发布日期**: 2026-05-05
+**链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034581?af=R)
+
+**摘要**: Journal of Geophysical Research: Space Physics, Volume 131, Issue 5, May 2026.
+
+---
+
+### 5. GNSS‐TEC Driven E‐CHAIM for Enhanced PALSAR Ionospheric Tomography
+
+**发布日期**: 2026-05-05
+**链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035056?af=R)
+
+**摘要**: Journal of Geophysical Research: Space Physics, Volume 131, Issue 5, May 2026.
+
+---
+
+### 6. Interhemispheric Asymmetries in the Large‐Scale Traveling Atmospheric and Ionospheric Disturbances During the 5–6 August 2011 Geomagnetic Storm
+
+**发布日期**: 2026-05-04
+**链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034740?af=R)
+
+**摘要**: Journal of Geophysical Research: Space Physics, Volume 131, Issue 5, May 2026.
+
+---
+
+### 7. Detection of Equatorial Plasma Bubbles Using the COSMIC‐2 Rate of TEC Index
+
+**发布日期**: 2026-05-02
+**链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034739?af=R)
+
+**摘要**: Journal of Geophysical Research: Space Physics, Volume 131, Issue 5, May 2026.
+
+---
+
+### 8. Solar Orbiter in Venus' Ionosphere: Observations From the 4th Flyby
+
+**发布日期**: 2026-04-30
+**链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034813?af=R)
+
+**摘要**: Journal of Geophysical Research: Space Physics, Volume 131, Issue 5, May 2026.
+
+---
+
+## Science - Science（3 篇）
+
+### 1. In the remote Amazon, locals are saving a giant fish—and helping their villages
+
+**发布日期**: 2026-05-07
+**链接**: [原文](https://www.science.org/content/article/remote-amazon-locals-are-saving-giant-fish-and-helping-their-villages)
+
+**摘要**: Project has brought income and electricity while protecting wide swaths of tropical forest
+
+---
+
+### 2. Magic mushroom compound shows promise against cocaine addiction
+
+**发布日期**: 2026-05-07
+**链接**: [原文](https://www.science.org/content/article/magic-mushroom-compound-shows-promise-against-cocaine-addiction)
+
+**摘要**: Small study that prioritized Black and low-income participants yields “remarkable” results
+
+---
+
+### 3. Intermetallic nanoassemblies potentiate systemic STING activation | Science
+
+**发布日期**: 2026-05-07
+**链接**: [原文](https://www.science.org/doi/10.1126/science.adx1893)
+
+**摘要**: Natural systems use metal ions to form ordered structures that regulate biological processes, inspiring the rational design of nanotherapeutics. The cyclic guanosine monophosphate–adenosine monophosphate synthase–stimulator of interferon genes (cGAS-...
+
+---
+
+
+*报告生成时间: 2026-05-13 15:11:23 | 由 WorkBuddy 自动生成*
+
+*数据来源: arXiv、AGU(7本期刊)、Nature系列、Science系列*
