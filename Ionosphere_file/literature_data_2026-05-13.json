@@ -1,15 +1,5 @@
 [
   {
-    "source": "arXiv-physics.space-ph",
-    "title": "Dynamic Alignment: A Fragile Survival Effect",
-    "link": "https://arxiv.org/abs/2605.11305",
-    "arxiv_id": "2605.11305",
-    "published": "2026-05-13",
-    "summary": "arXiv:2605.11305v1 Announce Type: cross \nAbstract: Dynamic alignment in magnetohydrodynamic (MHD) turbulence is usually interpreted as a cascade-wide tendency of Elsasser increments to become increasingly collinear at smaller scales. We argue instead that the standard measurements mainly detect a conditional survival effect of intense events. In high-resolution Johns Hopkins MHD simulations, the typical folded Elsasser-increment angle remains only modestly below the random-orientation baseline and shows no evidence for a rigid, monotone, volume-filling ordering of the cascade. Much smaller ang",
-    "pdf_url": "https://arxiv.org/pdf/2605.11305.pdf",
-    "abs_url": "https://arxiv.org/abs/2605.11305"
-  },
-  {
     "source": "AGU - AGU-Space Weather",
     "title": "Introducing Reflected GNSS TEC Data Into ANCHOR Ionospheric Data Assimilation Model",
     "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004827?af=R",
@@ -22,20 +12,6 @@
     "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EA004594?af=R",
     "published": "2026-05-04",
     "summary": "Earth and Space Science, Volume 13, Issue 5, May 2026."
-  },
-  {
-    "source": "AGU - AGU-Earth and Space Science",
-    "title": "Seafloor Sediments, Morphologic Features, and Geotechnical Properties of Harrison Bay in the Alaskan Beaufort Sea",
-    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EA004261?af=R",
-    "published": "2026-04-30",
-    "summary": "Earth and Space Science, Volume 13, Issue 5, May 2026."
-  },
-  {
-    "source": "AGU - AGU-JGR-Space Physics",
-    "title": "No Pinching: Topological Constraints on Polar Cap Patch Formation",
-    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034721?af=R",
-    "published": "2026-05-09",
-    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 5, May 2026."
   },
   {
     "source": "AGU - AGU-JGR-Space Physics",
@@ -85,54 +61,5 @@
     "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034813?af=R",
     "published": "2026-04-30",
     "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 5, May 2026."
-  },
-  {
-    "source": "Nature - Nature",
-    "title": "Two-qubit logic and teleportation with mobile spin qubits in silicon",
-    "link": "https://www.nature.com/articles/s41586-026-10423-9",
-    "published": "2026-05-06",
-    "summary": ""
-  },
-  {
-    "source": "Nature - Nature",
-    "title": "Genome-wide sweeps create ecological units in the human gut microbiome",
-    "link": "https://www.nature.com/articles/s41586-026-10476-w",
-    "published": "2026-05-06",
-    "summary": ""
-  },
-  {
-    "source": "Nature - Nature",
-    "title": "Imaging the flat bands of magic-angle graphene reshaped by interactions",
-    "link": "https://www.nature.com/articles/s41586-026-10378-x",
-    "published": "2026-05-06",
-    "summary": ""
-  },
-  {
-    "source": "Nature - Nature",
-    "title": "J. Craig Venter obituary: maverick biotechnologist who sequenced the human genome",
-    "link": "https://www.nature.com/articles/d41586-026-01433-8",
-    "published": "2026-05-06",
-    "summary": ""
-  },
-  {
-    "source": "Nature - Nature Astronomy",
-    "title": "Detection of an atmosphere on a trans-Neptunian object beyond Pluto",
-    "link": "https://www.nature.com/articles/s41550-026-02846-1",
-    "published": "2026-05-04",
-    "summary": ""
-  },
-  {
-    "source": "Nature - Nature Geoscience",
-    "title": "Geological mapping from the ocean floor to outer space",
-    "link": "https://www.nature.com/articles/s41561-026-01968-5",
-    "published": "2026-05-01",
-    "summary": ""
-  },
-  {
-    "source": "Science - Science",
-    "title": "Magic mushroom compound shows promise against cocaine addiction",
-    "link": "https://www.science.org/content/article/magic-mushroom-compound-shows-promise-against-cocaine-addiction",
-    "published": "2026-05-07",
-    "summary": "Small study that prioritized Black and low-income participants yields “remarkable” results"
   }
 ]
