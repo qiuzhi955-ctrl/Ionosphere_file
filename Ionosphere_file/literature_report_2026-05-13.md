@@ -4,9 +4,8 @@
 
 ## 概览
 
-- **总计**: 9 篇
+- **总计**: 8 篇
 - **AGU - AGU-Space Weather**: 1 篇
-- **AGU - AGU-Earth and Space Science**: 1 篇
 - **AGU - AGU-JGR-Space Physics**: 7 篇
 
 ---
@@ -19,17 +18,6 @@
 **链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004827?af=R)
 
 **摘要**: Space Weather, Volume 24, Issue 5, May 2026.
-
----
-
-## AGU - AGU-Earth and Space Science（1 篇）
-
-### 1. Post‐Acquisition Image‐Based Localization for High Resolution Thermal and Visible/Shortwave Infrared Images With Application to the Lunar Trailblazer Mission
-
-**发布日期**: 2026-05-04
-**链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025EA004594?af=R)
-
-**摘要**: Earth and Space Science, Volume 13, Issue 5, May 2026.
 
 ---
 
@@ -92,6 +80,6 @@
 
 ---
 
-*报告生成时间: 2026-05-13 15:50:19 | 由 WorkBuddy 自动生成*
+*报告生成时间: 2026-05-13 15:52:13 | 由 WorkBuddy 自动生成*
 
 *数据来源: arXiv、AGU(7本期刊)、Nature系列、Science*
