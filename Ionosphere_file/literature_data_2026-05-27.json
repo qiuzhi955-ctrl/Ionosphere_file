@@ -1,0 +1,26 @@
+[
+  {
+    "source": "arXiv-physics.space-ph",
+    "title": "Aurora Hunter: A Two-Stage Framework for Probabilistic Visibility Forecasting",
+    "link": "https://arxiv.org/abs/2605.24038",
+    "arxiv_id": "2605.24038",
+    "published": "2026-05-26",
+    "summary": "arXiv:2605.24038v1 Announce Type: new \nAbstract: Forecasting aurora borealis visibility matters for space weather research and aurora tourism. Visibility at a site and night depends on two distinct factors: (1) whether aurora is physically occurring, driven by solar wind-magnetosphere coupling, and (2) whether observing conditions allow naked-eye detection, mainly cloud cover and lunar illumination. We present Aurora Hunter, a two-stage cascade that decouples these factors. Stage 1 predicts P(occurring) with XGBoost using 51 physics-driven features trained on joint Tromso+Kiruna data (about 16",
+    "pdf_url": "https://arxiv.org/pdf/2605.24038.pdf",
+    "abs_url": "https://arxiv.org/abs/2605.24038"
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "An Ion and Electron 3D FDTD Model Investigation Into Ionospheric ELF EM Wave Propagation From Power Lines",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035272?af=R",
+    "published": "2026-05-25",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 5, May 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Reconstruction of the Parameters of the Lower Ionosphere at Night Using VLF Radiophysical Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034771?af=R",
+    "published": "2026-05-25",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 5, May 2026."
+  }
+]
