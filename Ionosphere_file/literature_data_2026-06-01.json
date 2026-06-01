@@ -1,0 +1,30 @@
+[
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Space Weather Effects From Moderate to Severe Geomagnetic Storms in October 2024 Over the Latin American Sector",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004760?af=R",
+    "published": "2026-05-30",
+    "summary": "Space Weather, Volume 24, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Machine Learning",
+    "title": "A Deep Ensemble Transformer Model for Global Ionosphere Prediction and Uncertainty Quantification",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JH001022?af=R",
+    "published": "2026-05-19",
+    "summary": "Journal of Geophysical Research: Machine Learning and Computation, Volume 3, Issue 3, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Height‐Dependent Evolution of the Ionospheric Response to the May 2024 Superstorm: Global GNSS‐POD, GNSS‐RO, and Ground‐Based Observations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034932?af=R",
+    "published": "2026-05-28",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "A Model for Predicting Ionospheric Scintillation Intensity in High Latitude Region Based on VMD‐CNN‐BiLSTM‐Attention",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035098?af=R",
+    "published": "2026-05-26",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  }
+]
