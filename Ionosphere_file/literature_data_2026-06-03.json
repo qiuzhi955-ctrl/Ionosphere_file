@@ -1,0 +1,54 @@
+[
+  {
+    "source": "arXiv-physics.space-ph",
+    "title": "Predictive radar tracking reveals >500 mV/m electric-field transients during the May 2024 superstorm",
+    "link": "https://arxiv.org/abs/2605.31046",
+    "arxiv_id": "2605.31046",
+    "published": "2026-06-03",
+    "summary": "arXiv:2605.31046v2 Announce Type: replace \nAbstract: The bulk motion of E-region radar aurora provides a sparsely distributed, direct measurement of the ionospheric electric field in intermittent bursts. We present a tracking procedure for \\textsc{icebear} VHF measurements of Farley-Buneman waves. Each cluster is represented as an $\\alpha$-shape; frame-to-frame association is a Hungarian linear-assignment problem with a cost combining centroid distance and shape Intersection-over-Union; kinematic prediction amounts to a degenerate Kalman filter. Births, deaths, splits, and mergers are monitore",
+    "pdf_url": "https://arxiv.org/pdf/2605.31046.pdf",
+    "abs_url": "https://arxiv.org/abs/2605.31046"
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Terrestrial Space Weather Protection Through Human‐Produced Mass‐Loading",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004846?af=R",
+    "published": "2026-06-02",
+    "summary": "Space Weather, Volume 24, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Ionospheric Characterization Over Iran Using Multi‐Frequency IMB HF Transmitters and Global WSPRNET Reception During the 12 November 2025 Geomagnetic Storm",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004917?af=R",
+    "published": "2026-05-27",
+    "summary": "Space Weather, Volume 24, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Drivers of F‐Region Ionosphere Tidal Variability Caused by the Madden Julian Oscillation: Separating E‐Region Dynamo and Field‐Aligned Wind Effects",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035189?af=R",
+    "published": "2026-06-01",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "The Latitudinal Variation of the Ionospheric Lunar Signatures in the East‐Asian Sector",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA035004?af=R",
+    "published": "2026-06-01",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Jupiter's Auroral Ionosphere: Hybrid Monte Carlo, Auroral Spectrum and Conductivity Modeling",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035228?af=R",
+    "published": "2026-05-31",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Day‐to‐Day Longitudinal Variability of Total Electron Content (TEC) in the African Equatorial Region Affected by the Equatorial Ionosphere Anomaly",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA035013?af=R",
+    "published": "2026-05-29",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  }
+]
