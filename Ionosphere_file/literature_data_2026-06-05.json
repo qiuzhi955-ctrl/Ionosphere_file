@@ -1,0 +1,89 @@
+[
+  {
+    "source": "arXiv-physics.space-ph",
+    "title": "LdT: An indicator of ionospheric activity based on statistical distributions in GNSS-derived TEC rates of change",
+    "link": "https://arxiv.org/abs/2504.06056",
+    "arxiv_id": "2504.06056",
+    "published": "2026-06-04",
+    "summary": "arXiv:2504.06056v3 Announce Type: replace \nAbstract: Many aspects of our societies now depend upon satellite telecommunications, such as those requiring Global Navigation Satellite Systems (GNSS). GNSS is based on radio waves that propagate through the ionosphere and experience complicated propagation effects caused by inhomogeneities in its electron density. The Earth's ionosphere forms part of the solar-terrestrial environment, and its state is determined by the spatial distribution and temporal evolution of its electron density. It varies in response to the \"space weather\" combination of so",
+    "pdf_url": "https://arxiv.org/pdf/2504.06056.pdf",
+    "abs_url": "https://arxiv.org/abs/2504.06056"
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Terrestrial Space Weather Protection Through Human‐Produced Mass‐Loading",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004846?af=R",
+    "published": "2026-06-02",
+    "summary": "Space Weather, Volume 24, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Space Weather Effects From Moderate to Severe Geomagnetic Storms in October 2024 Over the Latin American Sector",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004760?af=R",
+    "published": "2026-05-30",
+    "summary": "Space Weather, Volume 24, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Ionospheric Characterization Over Iran Using Multi‐Frequency IMB HF Transmitters and Global WSPRNET Reception During the 12 November 2025 Geomagnetic Storm",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004917?af=R",
+    "published": "2026-05-27",
+    "summary": "Space Weather, Volume 24, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-Geophysical Research Letters",
+    "title": "The Drag of Ionosphere Plasma Drifts on Thermospheric Zonal Winds During the 10–12 May 2024 Superstorm",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118472?af=R",
+    "published": "2026-06-03",
+    "summary": "Geophysical Research Letters, Volume 53, Issue 11, 16 June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Features of Pronounced Longitudinal TEC Differences at Low and Middle Latitudes Over the South American Sector",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035183?af=R",
+    "published": "2026-06-03",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Drivers of F‐Region Ionosphere Tidal Variability Caused by the Madden Julian Oscillation: Separating E‐Region Dynamo and Field‐Aligned Wind Effects",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035189?af=R",
+    "published": "2026-06-01",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "The Latitudinal Variation of the Ionospheric Lunar Signatures in the East‐Asian Sector",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA035004?af=R",
+    "published": "2026-06-01",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Jupiter's Auroral Ionosphere: Hybrid Monte Carlo, Auroral Spectrum and Conductivity Modeling",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035228?af=R",
+    "published": "2026-05-31",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Day‐to‐Day Longitudinal Variability of Total Electron Content (TEC) in the African Equatorial Region Affected by the Equatorial Ionosphere Anomaly",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA035013?af=R",
+    "published": "2026-05-29",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Height‐Dependent Evolution of the Ionospheric Response to the May 2024 Superstorm: Global GNSS‐POD, GNSS‐RO, and Ground‐Based Observations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034932?af=R",
+    "published": "2026-05-28",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "A Model for Predicting Ionospheric Scintillation Intensity in High Latitude Region Based on VMD‐CNN‐BiLSTM‐Attention",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035098?af=R",
+    "published": "2026-05-26",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  }
+]
