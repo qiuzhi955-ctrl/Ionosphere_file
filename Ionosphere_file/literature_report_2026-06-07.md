@@ -4,10 +4,11 @@
 
 ## 概览
 
-- **总计**: 13 篇
+- **总计**: 14 篇
 - **AGU - AGU-Space Weather**: 4 篇
 - **AGU - AGU-Geophysical Research Letters**: 2 篇
 - **AGU - AGU-JGR-Space Physics**: 7 篇
+- **Science - Science**: 1 篇
 
 ---
 
@@ -124,6 +125,17 @@
 
 ---
 
-*报告生成时间: 2026-06-07 09:58:19 | 由 WorkBuddy 自动生成*
+## Science - Science（1 篇）
+
+### 1. Radical proposal would block solar storms with orbital ‘airbag’
+
+**发布日期**: 2026-06-02
+**链接**: [原文](https://www.science.org/content/article/radical-proposal-would-block-solar-storms-orbital-airbag)
+
+**摘要**: Gases released from satellites could slash the threat of severe space weather
+
+---
+
+*报告生成时间: 2026-06-07 10:00:06 | 由 WorkBuddy 自动生成*
 
 *数据来源: arXiv、AGU(7本期刊)、Nature系列、Science*
