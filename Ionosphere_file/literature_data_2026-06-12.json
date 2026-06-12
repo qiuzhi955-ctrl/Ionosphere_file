@@ -1,0 +1,57 @@
+[
+  {
+    "source": "arXiv-physics.space-ph",
+    "title": "Extreme, transient bursts of energy in the auroral ionosphere. II. A magnetotail dipolarization event",
+    "link": "https://arxiv.org/abs/2606.11861",
+    "arxiv_id": "2606.11861",
+    "published": "2026-06-11",
+    "summary": "arXiv:2606.11861v1 Announce Type: new \nAbstract: We report ground-based coherent VHF radar observations of extreme turbulent field-structures detected in coincidence with a magnetospheric substorm-associated magnetotail dipolarization. The field-structures are observed by the ICEBEAR radar, in the form of Farley-Buneman (FB) waves in the auroral electrojets, and the field-structures themselves move an order of magnitude faster than the saturation speed of the underlying FB waves, implying transient electric field sources up to 330 mV/m in strength. The field-structures are identified and autom",
+    "pdf_url": "https://arxiv.org/pdf/2606.11861.pdf",
+    "abs_url": "https://arxiv.org/abs/2606.11861"
+  },
+  {
+    "source": "arXiv-physics.space-ph",
+    "title": "Extreme, transient bursts of energy in the auroral ionosphere. I. Predictive radar tracking",
+    "link": "https://arxiv.org/abs/2605.31046",
+    "arxiv_id": "2605.31046",
+    "published": "2026-06-11",
+    "summary": "arXiv:2605.31046v3 Announce Type: replace \nAbstract: The bulk motion of E-region radar aurora provides a sparsely distributed, direct measurement of the ionospheric electric field in intermittent bursts. We present a tracking procedure for \\textsc{icebear} VHF measurements of Farley-Buneman waves. Each cluster is represented as an $\\alpha$-shape; frame-to-frame association is a Hungarian linear-assignment problem with a cost combining centroid distance and shape Intersection-over-Union; kinematic prediction amounts to a degenerate Kalman filter. Births, deaths, splits, and mergers are monitore",
+    "pdf_url": "https://arxiv.org/pdf/2605.31046.pdf",
+    "abs_url": "https://arxiv.org/abs/2605.31046"
+  },
+  {
+    "source": "AGU - AGU-Radio Science",
+    "title": "A Unified Vector Electromagnetic Framework for Ionospheric Scintillation and Polarization Effects in GNSS",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026RS008605?af=R",
+    "published": "2026-06-04",
+    "summary": "Radio Science, Volume 61, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-Geophysical Research Letters",
+    "title": "Evolution of NWC Transmitter Wave Power Distribution From the Topside Ionosphere Into the Inner Magnetosphere",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123087?af=R",
+    "published": "2026-06-06",
+    "summary": "Geophysical Research Letters, Volume 53, Issue 11, 16 June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "A PCA‐Based Reanalysis Method for Low‐ and Mid‐Latitude Ionospheric Electrodynamics and Its Preliminary Application",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035219?af=R",
+    "published": "2026-06-06",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Solar Wind–Magnetosphere–Ionosphere Coupling Under Extreme External Driving: Characteristics of Dayside Ground Magnetic Disturbances",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035111?af=R",
+    "published": "2026-06-04",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Ionosphere‐Thermosphere Responses to the March 2023 Geomagnetic Storm Using Observations and TIEGCM Simulations Driven by Data Assimilated Aurora and Electric Fields",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034954?af=R",
+    "published": "2026-06-04",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  }
+]
