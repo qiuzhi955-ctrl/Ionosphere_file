@@ -1,0 +1,40 @@
+[
+  {
+    "source": "arXiv-physics.space-ph",
+    "title": "Operational forecasting of solar energetic particle event and proton flux using multi-source solar observations and multi-task deep learning",
+    "link": "https://arxiv.org/abs/2606.14440",
+    "arxiv_id": "2606.14440",
+    "published": "2026-06-15",
+    "summary": "arXiv:2606.14440v1 Announce Type: cross \nAbstract: Solar energetic particle (SEP) events, defined by proton flux exceeding 10 pfu in the $>$ 10 MeV channel, pose major risks to spacecraft operations, astronaut safety, and high-latitude aviation. Due to the complexity and rarity of SEP events, reliable operational SEP forecasting remains an important challenge in space weather. Here we present a novel 24-hour-ahead operational forecasting framework based on a multi-task learning structure with a thoroughly constructed list of features from multiple sources that span over multiple solar cycles. ",
+    "pdf_url": "https://arxiv.org/pdf/2606.14440.pdf",
+    "abs_url": "https://arxiv.org/abs/2606.14440"
+  },
+  {
+    "source": "AGU - AGU-Radio Science",
+    "title": "A Unified Vector Electromagnetic Framework for Ionospheric Scintillation and Polarization Effects in GNSS",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026RS008605?af=R",
+    "published": "2026-06-04",
+    "summary": "Radio Science, Volume 61, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "A PCA‐Based Reanalysis Method for Low‐ and Mid‐Latitude Ionospheric Electrodynamics and Its Preliminary Application",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035219?af=R",
+    "published": "2026-06-06",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Solar Wind–Magnetosphere–Ionosphere Coupling Under Extreme External Driving: Characteristics of Dayside Ground Magnetic Disturbances",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035111?af=R",
+    "published": "2026-06-04",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Ionosphere‐Thermosphere Responses to the March 2023 Geomagnetic Storm Using Observations and TIEGCM Simulations Driven by Data Assimilated Aurora and Electric Fields",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034954?af=R",
+    "published": "2026-06-04",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  }
+]
