@@ -1,0 +1,82 @@
+[
+  {
+    "source": "arXiv-physics.space-ph",
+    "title": "Beyond Mean Solar Wind Conditions: Turbulence-Aware Forecasting of the AE Index",
+    "link": "https://arxiv.org/abs/2606.16518",
+    "arxiv_id": "2606.16518",
+    "published": "2026-06-16",
+    "summary": "arXiv:2606.16518v1 Announce Type: new \nAbstract: The auroral electrojet (AE) index is a key indicator of high latitude geomagnetic activity and is widely used in operational space weather monitoring, yet forecasting AE from upstream solar wind conditions remains challenging due to nonlinear coupling, internal magnetospheric dynamics, and multiscale variability. We test whether incorporating solar wind turbulence improves short timescale AE forecasts beyond models based only on mean solar wind and interplanetary magnetic field parameters. Two gradient boosted decision tree (XGBoost) models are ",
+    "pdf_url": "https://arxiv.org/pdf/2606.16518.pdf",
+    "abs_url": "https://arxiv.org/abs/2606.16518"
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Identifying and Predicting Coronal Mass Ejection Occurrence: Observational Checklists for Space Weather Forecasters",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004700?af=R",
+    "published": "2026-06-11",
+    "summary": "Space Weather, Volume 24, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Calibration and Fusion of GOLD‐Inferred TEC Data With Ground‐Based TEC",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026SW004978?af=R",
+    "published": "2026-06-11",
+    "summary": "Space Weather, Volume 24, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Geomagnetically Induced Currents, Transformer Harmonics, and Reactive Power Impacts: Observed Response of a Single‐Phase Transformer in New Zealand",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026SW004966?af=R",
+    "published": "2026-06-09",
+    "summary": "Space Weather, Volume 24, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "A Major Update to the PyIRI Model",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004853?af=R",
+    "published": "2026-06-05",
+    "summary": "Space Weather, Volume 24, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-Radio Science",
+    "title": "Machine Learning Models for Ionospheric foF2 Prediction: A Comparative Analysis",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025RS008336?af=R",
+    "published": "2026-06-11",
+    "summary": "Radio Science, Volume 61, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-Geophysical Research Letters",
+    "title": "Global Observational Comparison of Large‐Scale Traveling Atmospheric and Ionospheric Disturbances During the May 2024 Geomagnetic Storm",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123318?af=R",
+    "published": "2026-06-11",
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026."
+  },
+  {
+    "source": "AGU - AGU-Geophysical Research Letters",
+    "title": "The Turbulence Properties of 150‐km Echoes in the Lower Ionosphere",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122700?af=R",
+    "published": "2026-06-11",
+    "summary": "Geophysical Research Letters, Volume 53, Issue 12, 28 June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Low Latitude Ionospheric Response to the Geomagnetic Storms Near the Dawn Terminator",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035105?af=R",
+    "published": "2026-06-15",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "On the Origin of Seasonal Variability of the Diurnal Migrating Tide Excited In Situ in the Ionosphere‐Thermosphere System",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034747?af=R",
+    "published": "2026-06-12",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Reinvestigating the Nightside Ionosphere of Mars With 8 Years of Mars Express and MAVEN Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035339?af=R",
+    "published": "2026-06-11",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  }
+]
