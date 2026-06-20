@@ -1,0 +1,58 @@
+[
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Recommendations for Advancing Heliophysics and Space Weather Modeling Through Open Science",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026SW005194?af=R",
+    "published": "2026-06-18",
+    "summary": "Space Weather, Volume 24, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Advancing Heliophysics and Space Weather Modeling Through Open Science",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004922?af=R",
+    "published": "2026-06-18",
+    "summary": "Space Weather, Volume 24, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "TEC Prediction Using Cross‐Attention Spatiotemporal Feature Weighted BiConvLSTM and Improved Pre‐Earthquake Anomaly Detection",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004787?af=R",
+    "published": "2026-06-16",
+    "summary": "Space Weather, Volume 24, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Machine Learning",
+    "title": "Accurate Ionospheric TEC Prediction With a Causal Attention Network at Northern EIA Crests",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JH000994?af=R",
+    "published": "2026-06-18",
+    "summary": "Journal of Geophysical Research: Machine Learning and Computation, Volume 3, Issue 3, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Machine Learning",
+    "title": "Ionospheric Data Fusion With GNSS, GNSS‐RO and Satellite Altimetry Based on Machine Learning",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JH001078?af=R",
+    "published": "2026-06-16",
+    "summary": "Journal of Geophysical Research: Machine Learning and Computation, Volume 3, Issue 3, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Global Ionospheric and Thermospheric Responses to the Major Geomagnetic Storm of New Year 2025",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA035021?af=R",
+    "published": "2026-06-18",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Ionospheric Vertical Plasma Drifts Over South America: Long‐Term Multi‐Instrument Observations and TIEGCM and WACCM‐X Evaluations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035206?af=R",
+    "published": "2026-06-18",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Geoelectric Field Caused by Flux Transfer Events in an Ionosphere‐Coupled Vlasiator Simulation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035175?af=R",
+    "published": "2026-06-16",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 6, June 2026."
+  }
+]
