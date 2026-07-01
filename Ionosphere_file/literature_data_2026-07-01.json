@@ -1,0 +1,50 @@
+[
+  {
+    "source": "arXiv-physics.space-ph",
+    "title": "t-STEP: An interpretable model for Total Electron Content predictions and irregularities estimations",
+    "link": "https://arxiv.org/abs/2606.29644",
+    "arxiv_id": "2606.29644",
+    "published": "2026-06-30",
+    "summary": "arXiv:2606.29644v1 Announce Type: cross \nAbstract: Earth system infrastructures relying on satellite-based technologies, such as Global Positioning System (GPS) communications, are affected by ionospheric Total Electron Content (TEC) gradients. Modeling these gradients under physical constraints remains challenging due to their dynamic and transient nature. While existing machine learning (ML) models can predict hourly TEC variations, it remains unclear whether their temporal resolution is sufficient to preserve small-scale TEC irregularities within predicted signals. To address this gap, we i",
+    "pdf_url": "https://arxiv.org/pdf/2606.29644.pdf",
+    "abs_url": "https://arxiv.org/abs/2606.29644"
+  },
+  {
+    "source": "arXiv-physics.space-ph",
+    "title": "Excursion-set structure factor of the auroral electric field",
+    "link": "https://arxiv.org/abs/2606.26854",
+    "arxiv_id": "2606.26854",
+    "published": "2026-06-30",
+    "summary": "arXiv:2606.26854v2 Announce Type: replace \nAbstract: We treat coherent radar echoes from aurorae as a finite point process and measure its structure factor $S(k)$ from pairwise echo separations. Backscatter requires electron drifts to exceed the ion-acoustic speed, making the echoes a threshold (excursion-set) sample of the ionospheric electric field, and $|S-1|$ is that field's spectrum, to leading order. We test this against in-situ observations: in co-moving frames, the radar spectrum is scale-free with a spectral index near -5/3, matching the in-situ indices. The auroral electric field is ",
+    "pdf_url": "https://arxiv.org/pdf/2606.26854.pdf",
+    "abs_url": "https://arxiv.org/abs/2606.26854"
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Performance Investigation of Four Ionospheric Models in Estimating hmF2 in High‐Latitude Regions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026SW005112?af=R",
+    "published": "2026-06-26",
+    "summary": "Space Weather, Volume 24, Issue 7, July 2026."
+  },
+  {
+    "source": "AGU - AGU-Earth and Space Science",
+    "title": "Introduction to TREx‐ATM V2.0: A Versatile Model of Auroral Transport and Its Effects in the Ionosphere",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026EA005013?af=R",
+    "published": "2026-06-26",
+    "summary": "Earth and Space Science, Volume 13, Issue 7, July 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Characterizing Ionospheric Variability Over Iran Using 3D Ray‐Tracing and Amateur Radio Observations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034938?af=R",
+    "published": "2026-06-28",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 7, July 2026."
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Conjugate Ionospheric Response to Dayside Reconnection in Both Hemispheres",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JA035425?af=R",
+    "published": "2026-06-26",
+    "summary": "Journal of Geophysical Research: Space Physics, Volume 131, Issue 7, July 2026."
+  }
+]
