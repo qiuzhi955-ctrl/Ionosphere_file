@@ -4,17 +4,17 @@
 
 ## 📊 概览
 
-- **总计**: 10 篇
+- **总计**: 11 篇
 
 | 类别 | 篇数 |
 |------|------|
-| 电离层建模 | 2 |
+| 电离层建模 | 3 |
 | 电离层建模-中低纬度 | 1 |
 | 其他空间天气 | 7 |
 
 ---
 
-## 电离层建模（2 篇）
+## 电离层建模（3 篇）
 
 ### 1. Multi‐Instrument Constraints on a Hemispherically Asymmetric Positive Ionospheric Storm in the 60–180°E Sector During the 12–13 November 2025 Geomagnetic Storm
 > *来源：AGU - AGU-JGR-Space Physics*
@@ -32,6 +32,13 @@
 **链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JA034858?af=R)
 
 **摘要**: Journal of Geophysical Research: Space Physics, Volume 131, Issue 7, July 2026.
+
+---
+### 3. Narrow Linewidth Butterfly Laser With Dual-Zone Thermally Symmetric TEC for FMCW LiDAR
+> *来源：IEEE - IEEE Photonics Journal*
+
+**发布日期**: 2026-8
+**链接**: [原文](https://doi.org/10.1109/jphot.2026.3697770)
 
 ---
 
@@ -114,6 +121,6 @@ Abstract: Coronal Mass Ejections (CMEs) are large expulsions of magnetized plasm
 
 ---
 
-*报告生成时间: 2026-07-08 10:21:07 | 由 WorkBuddy 自动生成*
+*报告生成时间: 2026-07-08 10:33:54 | 由 WorkBuddy 自动生成*
 
-*数据来源: arXiv、AGU(7本期刊)、Nature系列(8本)、Science系列(2本)*
+*数据来源: arXiv、AGU(7本期刊)、Nature系列(8本)、Science系列(2本)、IEEE(CrossRef)*
