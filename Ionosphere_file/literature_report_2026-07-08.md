@@ -4,13 +4,13 @@
 
 ## 📊 概览
 
-- **总计**: 5 篇
+- **总计**: 10 篇
 
 | 类别 | 篇数 |
 |------|------|
 | 电离层建模 | 2 |
 | 电离层建模-中低纬度 | 1 |
-| 其他空间天气 | 2 |
+| 其他空间天气 | 7 |
 
 ---
 
@@ -47,7 +47,7 @@
 
 ---
 
-## 其他空间天气（2 篇）
+## 其他空间天气（7 篇）
 
 ### 1. Role of SKA in Advancing Remote Measurements of Magnetic Fields of Solar Coronal Mass Ejections
 > *来源：arXiv-physics.space-ph*
@@ -68,7 +68,52 @@ Abstract: Coronal Mass Ejections (CMEs) are large expulsions of magnetized plasm
 **摘要**: Space Weather, Volume 24, Issue 7, July 2026.
 
 ---
+### 3. A Model for Recommending Historical Similar Events in Forecasting CME Geoeffectiveness
+> *来源：AGU - AGU-Space Weather*
 
-*报告生成时间: 2026-07-08 08:48:12 | 由 WorkBuddy 自动生成*
+**发布日期**: 2026-07-03
+**链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026SW004998?af=R)
+
+**摘要**: Space Weather, Volume 24, Issue 7, July 2026.
+
+---
+### 4. Aircraft Ionizing Radiation Exposure for Solar Cycle 24/25 From ARMAS and NAIRAS
+> *来源：AGU - AGU-Space Weather*
+
+**发布日期**: 2026-07-03
+**链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004709?af=R)
+
+**摘要**: Space Weather, Volume 24, Issue 7, July 2026.
+
+---
+### 5. Soft Proton Environment Modeling for SMILE Using XGBoost and Solar Cycle–Informed Synthetic Data Sets
+> *来源：AGU - AGU-Space Weather*
+
+**发布日期**: 2026-07-03
+**链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025SW004777?af=R)
+
+**摘要**: Space Weather, Volume 24, Issue 7, July 2026.
+
+---
+### 6. Application of Deep Learning and Explainable AI to NIR Auroral Detection in Satellite Time‐Series Images
+> *来源：AGU - AGU-Space Weather*
+
+**发布日期**: 2026-06-30
+**链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026SW004971?af=R)
+
+**摘要**: Space Weather, Volume 24, Issue 7, July 2026.
+
+---
+### 7. Issue Information
+> *来源：AGU - AGU-Space Weather*
+
+**发布日期**: 2026-06-26
+**链接**: [原文](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/swe.70164?af=R)
+
+**摘要**: Space Weather, Volume 24, Issue 7, July 2026.
+
+---
+
+*报告生成时间: 2026-07-08 10:21:07 | 由 WorkBuddy 自动生成*
 
 *数据来源: arXiv、AGU(7本期刊)、Nature系列(8本)、Science系列(2本)*
