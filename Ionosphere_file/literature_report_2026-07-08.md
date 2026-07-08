@@ -69,6 +69,6 @@ Abstract: Coronal Mass Ejections (CMEs) are large expulsions of magnetized plasm
 
 ---
 
-*报告生成时间: 2026-07-08 08:44:22 | 由 WorkBuddy 自动生成*
+*报告生成时间: 2026-07-08 08:48:12 | 由 WorkBuddy 自动生成*
 
 *数据来源: arXiv、AGU(7本期刊)、Nature系列(8本)、Science系列(2本)*
