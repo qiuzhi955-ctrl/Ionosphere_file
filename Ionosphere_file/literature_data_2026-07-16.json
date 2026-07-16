@@ -1,0 +1,46 @@
+[
+  {
+    "source": "arXiv-physics.space-ph",
+    "title": "Unraveling the Generation Mechanism of a Mid-Latitude Plasma Blob and the Evidence of Its Rare Interaction with a MSTID Phase Front",
+    "link": "https://arxiv.org/abs/2607.12601",
+    "arxiv_id": "2607.12601",
+    "published": "2026-07-15",
+    "summary": "arXiv:2607.12601v1 Announce Type: new \nAbstract: We report observations of two distinct nighttime F-region irregularities, plasma blob (localized density enhancement) and medium-scale traveling ionospheric disturbance (MSTID), in O(1D) 630.0 nm all-sky airglow images from Hanle (32.7{\\deg}N, 78.9{\\deg}E; Mlat~24.1{\\deg}N), Ladakh, India, during the geomagnetically quiet (Ap=6) night of 06 July 2021. Global vertical total electron content (VTEC) maps revealed that the plasma blob developed beyond the southern edge of imager's field-of-view before appearing in airglow images and propagated predo",
+    "pdf_url": "https://arxiv.org/pdf/2607.12601.pdf",
+    "abs_url": "https://arxiv.org/abs/2607.12601"
+  },
+  {
+    "source": "arXiv-physics.space-ph",
+    "title": "Assessing Ionospheric Scintillation Risk for Direct-to-Cellular Satellite Communications using Frequency-Scaled GNSS Observations",
+    "link": "https://arxiv.org/abs/2602.17143",
+    "arxiv_id": "2602.17143",
+    "published": "2026-07-15",
+    "summary": "arXiv:2602.17143v2 Announce Type: replace-cross \nAbstract: One of the key issues facing Direct-to-Cellular (D2C) satellite communication systems is ionospheric scintillation on the uplink and downlink, which can significantly degrade link quality. This work investigates the spatial and temporal characteristics of amplitude scintillation at D2C frequencies by scaling L-band scintillation observations from Global Navigation Satellite Systems (GNSS) receivers to bands relevant to D2C operation, including the low-band, and 3GPP's N255 and N256. These observations are then compared to scaled radio-",
+    "pdf_url": "https://arxiv.org/pdf/2602.17143.pdf",
+    "abs_url": "https://arxiv.org/abs/2602.17143"
+  },
+  {
+    "source": "AGU - AGU-Geophysical Research Letters",
+    "title": "Response of Topside Ionospheric Electron Density During Solar Flares Using 2014–2024 Swarm Satellite Measurements",
+    "link": "https://doi.org/10.1029/2025gl121151",
+    "doi": "10.1029/2025gl121151",
+    "published": "2026-7-28",
+    "summary": "Abstract \n                   This paper presents a global statistical investigation into the topside ionosphere electron density response to X‐class solar flares during geomagnetically quiet conditions (Kp  2) using Swarm satellites (462–511 km) data from 2014 to 2024. The International Reference Ionosphere (IRI‐2020) model is used to provide background topside ionospheric electron density information and the percentage deviation between the model and Swarm measurements is computed. Our results "
+  },
+  {
+    "source": "AGU - AGU-Geophysical Research Letters",
+    "title": "Tsunami Traveling Ionospheric Disturbances Triggered by the 29 July 2025 Mw 8.8 Kamchatka Earthquake Observed in Japan and Taiwan",
+    "link": "https://doi.org/10.1029/2026gl122041",
+    "doi": "10.1029/2026gl122041",
+    "published": "2026-7-28",
+    "summary": "Abstract \n                   \n                    The 29 July 2025 Mw 8.8 Kamchatka earthquake generated notable seismic and tsunami waves. The total electron content (TEC) derived by more than 1,400 ground‐based global navigation satellite system (GNSS) receiving stations in Japan and Taiwan is employed to examine the spatiotemporal evolution of seismic‐ and tsunami‐traveling ionospheric disturbances (STIDs and TTIDs). A z‐score normalized process applied to GNSS TEC clearly shows STIDs, TTID\n "
+  },
+  {
+    "source": "IEEE - IEEE Photonics Journal",
+    "title": "Narrow Linewidth Butterfly Laser With Dual-Zone Thermally Symmetric TEC for FMCW LiDAR",
+    "link": "https://doi.org/10.1109/jphot.2026.3697770",
+    "doi": "10.1109/jphot.2026.3697770",
+    "published": "2026-8",
+    "summary": ""
+  }
+]
