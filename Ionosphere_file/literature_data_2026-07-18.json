@@ -1,0 +1,36 @@
+[
+  {
+    "source": "arXiv-physics.space-ph",
+    "title": "Regression to the Mean can Explain Saturation of Geomagnetic Storms",
+    "link": "https://arxiv.org/abs/2201.02137",
+    "arxiv_id": "2201.02137",
+    "published": "2026-07-17",
+    "summary": "arXiv:2201.02137v3 Announce Type: replace \nAbstract: Extreme space weather events on Earth occur during intervals of strong solar wind driving. The solar wind drives plasma convection and currents in the near-Earth space environment. For low values of the driver, the Earth's response is linear, estimated by parameters such as the polar cap index based on ground magnetometer activity. Curiously, for extreme solar wind driving, the Earth's response appears not to increase beyond a saturation limit. Theorists have advanced a host of explanations for this saturation effect, but there is no consens",
+    "pdf_url": "https://arxiv.org/pdf/2201.02137.pdf",
+    "abs_url": "https://arxiv.org/abs/2201.02137"
+  },
+  {
+    "source": "AGU - AGU-Geophysical Research Letters",
+    "title": "Response of Topside Ionospheric Electron Density During Solar Flares Using 2014–2024 Swarm Satellite Measurements",
+    "link": "https://doi.org/10.1029/2025gl121151",
+    "doi": "10.1029/2025gl121151",
+    "published": "2026-7-28",
+    "summary": "Abstract \n                   This paper presents a global statistical investigation into the topside ionosphere electron density response to X‐class solar flares during geomagnetically quiet conditions (Kp  2) using Swarm satellites (462–511 km) data from 2014 to 2024. The International Reference Ionosphere (IRI‐2020) model is used to provide background topside ionospheric electron density information and the percentage deviation between the model and Swarm measurements is computed. Our results "
+  },
+  {
+    "source": "AGU - AGU-Geophysical Research Letters",
+    "title": "Tsunami Traveling Ionospheric Disturbances Triggered by the 29 July 2025 Mw 8.8 Kamchatka Earthquake Observed in Japan and Taiwan",
+    "link": "https://doi.org/10.1029/2026gl122041",
+    "doi": "10.1029/2026gl122041",
+    "published": "2026-7-28",
+    "summary": "Abstract \n                   \n                    The 29 July 2025 Mw 8.8 Kamchatka earthquake generated notable seismic and tsunami waves. The total electron content (TEC) derived by more than 1,400 ground‐based global navigation satellite system (GNSS) receiving stations in Japan and Taiwan is employed to examine the spatiotemporal evolution of seismic‐ and tsunami‐traveling ionospheric disturbances (STIDs and TTIDs). A z‐score normalized process applied to GNSS TEC clearly shows STIDs, TTID\n "
+  },
+  {
+    "source": "IEEE - IEEE Photonics Journal",
+    "title": "Narrow Linewidth Butterfly Laser With Dual-Zone Thermally Symmetric TEC for FMCW LiDAR",
+    "link": "https://doi.org/10.1109/jphot.2026.3697770",
+    "doi": "10.1109/jphot.2026.3697770",
+    "published": "2026-8",
+    "summary": ""
+  }
+]
