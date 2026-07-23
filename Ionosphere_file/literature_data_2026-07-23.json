@@ -1,0 +1,18 @@
+[
+  {
+    "source": "AGU - AGU-Geophysical Research Letters",
+    "title": "Physics‐Embedded Deep Learning Reveals the Memory Effect of Ionospheric Electron Density in Response to Solar EUV Forcing",
+    "link": "https://doi.org/10.1029/2026gl124459",
+    "doi": "10.1029/2026gl124459",
+    "published": "2026-7-28",
+    "summary": "Abstract \n                   \n                    Precise characterization of the electron density profile is crucial for optimizing high frequency communications. Reconstruction models often assume an instantaneous ionospheric response to solar forcing or using time delays, neglecting the time‐integrated cumulative “memory effect” of plasma dynamics. Here, we develop the Electron Density Profile Reconstruction Neural Network (EDPRNN), a physics‐embedded framework that parameterizes and dynamica"
+  },
+  {
+    "source": "IEEE - IEEE Photonics Journal",
+    "title": "Narrow Linewidth Butterfly Laser With Dual-Zone Thermally Symmetric TEC for FMCW LiDAR",
+    "link": "https://doi.org/10.1109/jphot.2026.3697770",
+    "doi": "10.1109/jphot.2026.3697770",
+    "published": "2026-8",
+    "summary": ""
+  }
+]
