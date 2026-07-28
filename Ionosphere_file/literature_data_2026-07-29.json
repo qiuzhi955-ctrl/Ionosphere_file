@@ -1,0 +1,36 @@
+[
+  {
+    "source": "arXiv-physics.space-ph",
+    "title": "Covariance-Boosted Gaussian Processes for Spatiotemporal Irregularities",
+    "link": "https://arxiv.org/abs/2607.23018",
+    "arxiv_id": "2607.23018",
+    "published": "2026-07-28",
+    "summary": "arXiv:2607.23018v1 Announce Type: cross \nAbstract: Nonstationary Gaussian process (GP) models are powerful tools for capturing input-dependent variability by adapting to observed data. However, with limited sampling and highly parameterized covariance structure, they are often prone to overfitting and overconfident uncertainty estimates, potentially leading to misleading predictions in safety-critical applications. Motivated by ionospheric modeling for satellite-based augmentation systems (SBAS), this paper proposes a Covariance-Boosted Gaussian Process (CBGP) framework centered upon boosting ",
+    "pdf_url": "https://arxiv.org/pdf/2607.23018.pdf",
+    "abs_url": "https://arxiv.org/abs/2607.23018"
+  },
+  {
+    "source": "AGU - AGU-Geophysical Research Letters",
+    "title": "Controlling of the F Region Plasma Structures by the E Region Conductance in the Auroral Ionosphere",
+    "link": "https://doi.org/10.1029/2026gl122043",
+    "doi": "10.1029/2026gl122043",
+    "published": "2026-7-28",
+    "summary": "Abstract \n                   At high latitudes, the E and F regions of the ionosphere are strongly coupled through nearly vertical magnetic field lines. To simultaneously and directly relate the E and F regions' plasma structures, we ran a coordinated conjunction campaign between Swarm satellites and Incoherent Scatter Radar in Tromsø, Norway, during a moderate geomagnetic storm in late March 2025. For the first time, we quantitatively compare the E region Pedersen conductance with the power spe"
+  },
+  {
+    "source": "AGU - AGU-Geophysical Research Letters",
+    "title": "Physics‐Embedded Deep Learning Reveals the Memory Effect of Ionospheric Electron Density in Response to Solar EUV Forcing",
+    "link": "https://doi.org/10.1029/2026gl124459",
+    "doi": "10.1029/2026gl124459",
+    "published": "2026-7-28",
+    "summary": "Abstract \n                   \n                    Precise characterization of the electron density profile is crucial for optimizing high frequency communications. Reconstruction models often assume an instantaneous ionospheric response to solar forcing or using time delays, neglecting the time‐integrated cumulative “memory effect” of plasma dynamics. Here, we develop the Electron Density Profile Reconstruction Neural Network (EDPRNN), a physics‐embedded framework that parameterizes and dynamica"
+  },
+  {
+    "source": "IEEE - IEEE Photonics Journal",
+    "title": "Narrow Linewidth Butterfly Laser With Dual-Zone Thermally Symmetric TEC for FMCW LiDAR",
+    "link": "https://doi.org/10.1109/jphot.2026.3697770",
+    "doi": "10.1109/jphot.2026.3697770",
+    "published": "2026-8",
+    "summary": ""
+  }
+]
