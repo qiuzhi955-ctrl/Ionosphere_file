@@ -1,0 +1,28 @@
+[
+  {
+    "source": "arXiv-physics.space-ph",
+    "title": "LdT: An indicator of ionospheric activity based on statistical distributions in GNSS-derived TEC rates of change",
+    "link": "https://arxiv.org/abs/2504.06056",
+    "arxiv_id": "2504.06056",
+    "published": "2026-07-31",
+    "summary": "arXiv:2504.06056v4 Announce Type: replace \nAbstract: Many aspects of our societies now depend upon satellite telecommunications, such as those requiring Global Navigation Satellite Systems (GNSS). GNSS is based on radio waves that propagate through the ionosphere and experience complicated propagation effects caused by inhomogeneities in its electron density. The Earth's ionosphere forms part of the solar-terrestrial environment, and its state is determined by the spatial distribution and temporal evolution of its electron density. It varies in response to the \"space weather\" combination of so",
+    "pdf_url": "https://arxiv.org/pdf/2504.06056.pdf",
+    "abs_url": "https://arxiv.org/abs/2504.06056"
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "A Contrasting TEC Behavior Over the Low‐Latitude Post‐Midnight Sector During Recovery Phases of May and October 2024 Storms: Possible Role of PPEF, DDEF, and O/N\n                    <sub>2</sub>",
+    "link": "https://doi.org/10.1029/2026ja035110",
+    "doi": "10.1029/2026ja035110",
+    "published": "2026-8",
+    "summary": "Abstract \n                   \n                    The present study reports on the variability of the post‐midnight ionosphere over the low‐latitude sector during the recovery phases of the May and October 2024 storms. Multi‐instrument observations, comprising global navigation satellite system total electron content (TEC), F‐layer peak height, electron density profiles, and column O/N\n                     2 \n                    measurements, were employed to examine this variability. Interestin"
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Estimating the Ionization Rate of the Upper Atmosphere During X‐Class Solar Flares",
+    "link": "https://doi.org/10.1029/2025ja034767",
+    "doi": "10.1029/2025ja034767",
+    "published": "2026-8",
+    "summary": "Abstract \n                   This article examines the impact of solar flare electromagnetic radiation on the state and dynamics of the Earth's upper atmosphere and the applicability of experimental and theoretical methods for assessing changes in the upper ionosphere. One of the most important parameters of ionospheric disturbances is the ionization rate. The article presents data from calculating vertical profiles of the electron production rate for altitudes from 60 to 600 km for two X‐class "
+  }
+]
