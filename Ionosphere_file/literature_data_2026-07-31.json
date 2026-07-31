@@ -1,0 +1,50 @@
+[
+  {
+    "source": "AGU - AGU-Geophysical Research Letters",
+    "title": "Controlling of the F Region Plasma Structures by the E Region Conductance in the Auroral Ionosphere",
+    "link": "https://doi.org/10.1029/2026gl122043",
+    "doi": "10.1029/2026gl122043",
+    "published": "2026-7-28",
+    "summary": "Abstract \n                   At high latitudes, the E and F regions of the ionosphere are strongly coupled through nearly vertical magnetic field lines. To simultaneously and directly relate the E and F regions' plasma structures, we ran a coordinated conjunction campaign between Swarm satellites and Incoherent Scatter Radar in Tromsø, Norway, during a moderate geomagnetic storm in late March 2025. For the first time, we quantitatively compare the E region Pedersen conductance with the power spe"
+  },
+  {
+    "source": "AGU - AGU-Geophysical Research Letters",
+    "title": "Physics‐Embedded Deep Learning Reveals the Memory Effect of Ionospheric Electron Density in Response to Solar EUV Forcing",
+    "link": "https://doi.org/10.1029/2026gl124459",
+    "doi": "10.1029/2026gl124459",
+    "published": "2026-7-28",
+    "summary": "Abstract \n                   \n                    Precise characterization of the electron density profile is crucial for optimizing high frequency communications. Reconstruction models often assume an instantaneous ionospheric response to solar forcing or using time delays, neglecting the time‐integrated cumulative “memory effect” of plasma dynamics. Here, we develop the Electron Density Profile Reconstruction Neural Network (EDPRNN), a physics‐embedded framework that parameterizes and dynamica"
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Response of Ionospheric Parameters at Low‐Latitude and Mid‐Latitude Stations to Geomagnetic Storms of March and April 2025",
+    "link": "https://doi.org/10.1029/2026ja035402",
+    "doi": "10.1029/2026ja035402",
+    "published": "2026-8",
+    "summary": "Abstract \n                   \n                    This study investigates ionospheric responses to geomagnetic storms of 21–24 March and 15–17 April 2025 using GNSS‐derived total electron content (TEC), magnetometer observations, and thermospheric O/N\n                     2 \n                    measurements at low and mid‐latitudes across the Northern Hemisphere of the Europe–Africa sector. The March storm reached a SYM‐H minimum of −72 nT, driven by a CME with a brief southward IMF‐Bz interval "
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Magnetosphere‐Ionosphere Current Systems During Sawtooth Oscillations of October 2024 Geomagnetic Storm",
+    "link": "https://doi.org/10.1029/2026ja035403",
+    "doi": "10.1029/2026ja035403",
+    "published": "2026-8",
+    "summary": "Abstract \n                   The magnetosphere can undergo periodic loading and unloading of magnetic energy, a mode of activity known as sawtooth oscillations. Whether individual oscillations represent intensified substorms or a distinct form of magnetospheric activity remains an open question. We investigate the magnetosphere–ionosphere (M–I) current systems during the sawtooth oscillations of the October 2024 geomagnetic storm to examine how the system reconfigures in space and time, using co"
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Statistical Characteristics and Mechanisms of Digisonde Echo Disappearances During Geomagnetic Storms",
+    "link": "https://doi.org/10.1029/2026ja035107",
+    "doi": "10.1029/2026ja035107",
+    "published": "2026-8",
+    "summary": "Abstract \n                   Geomagnetic storms, through the complex modulation of space weather, can disrupt observational instruments. During certain storms, digisonde observations exhibit complete echo disappearances, a phenomenon that has not been systematically investigated. We conducted a statistical analysis of this phenomenon using digisonde data from three stations of the Chinese Meridian Project (Mohe:122.2°E, 53.3°N; Wuhan:114.3°E, 30.3°N; Fuke:109.7°E, 19.3°N) over a solar cycle from"
+  },
+  {
+    "source": "IEEE - IEEE Photonics Journal",
+    "title": "Narrow Linewidth Butterfly Laser With Dual-Zone Thermally Symmetric TEC for FMCW LiDAR",
+    "link": "https://doi.org/10.1109/jphot.2026.3697770",
+    "doi": "10.1109/jphot.2026.3697770",
+    "published": "2026-8",
+    "summary": ""
+  }
+]
