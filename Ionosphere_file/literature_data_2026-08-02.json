@@ -1,0 +1,74 @@
+[
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Quantitative Assessment of Geographic Control of December Solstice EIA Crest Shifts Over Southeast Asia Under Low Solar Activity",
+    "link": "https://doi.org/10.1029/2026sw004936",
+    "doi": "10.1029/2026sw004936",
+    "published": "2026-8",
+    "summary": "Abstract \n                   \n                    This study quantitatively assesses the drivers of the Equatorial Ionization Anomaly (EIA) morphology and latitudinal shifts over Southeast Asia during the December solstice. We use a 27‐year ionospheric data set (1998–2024) of total electron content (TEC) and F2‐layer peak electron density (NmF2) under geomagnetically quiet conditions. Crest parameters are extracted using a dual‐Gaussian fitting method, and variance contributions are decomposed f"
+  },
+  {
+    "source": "AGU - AGU-Geophysical Research Letters",
+    "title": "Oxygen Ion Percentage Inferred From the Cutoff Frequencies of Ionospheric ELF Hiss Emissions",
+    "link": "https://doi.org/10.1029/2026gl122261",
+    "doi": "10.1029/2026gl122261",
+    "published": "2026-8-16",
+    "summary": "Abstract \n                   \n                    The lower cutoff frequency of hiss emissions observed in the ionosphere is controlled by local plasma composition and density. This study identifies 6,340 ionospheric hiss wave events based on observations from the China Seismo‐Electromagnetic Satellite (CSES‐01) from 1 August 2018 to 31 July 2020. Their cutoff frequencies are evaluated using the Canny edge‐detection method. The O\n                     + \n                    ion percentage is subs"
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Near‐Earth Cosmic Ray Modulation Index\n                    <i>ϕ</i>\n                    and Neutron Monitor Cutoff Rigidities at Hourly Cadence: Toward an Improved Monitoring of Solar‐Terrestrial Radiation Environment, Space Weather, and Space Climate",
+    "link": "https://doi.org/10.1029/2026ja035445",
+    "doi": "10.1029/2026ja035445",
+    "published": "2026-8",
+    "summary": "Abstract \n                   Cosmic rays (CRs) are energetic particles originating from galactic and extragalactic sources. When arriving into the solar system and the Sun's heliosphere, they are diverted and modulated by the magnetic activity of the Sun. This modulation can be quantified by the modulation parameter  determined with the Force‐field approximation (FFA). Even though this approximation is a highly simplified representation of the underlying physics,  has been successfully used to d"
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Ray Tracing Method in a General Non‐Dipole Magnetic Field",
+    "link": "https://doi.org/10.1029/2026ja035419",
+    "doi": "10.1029/2026ja035419",
+    "published": "2026-8",
+    "summary": "Abstract \n                   We present a new general mathematical formulation of the Eikonal equations for ray tracing, which can use any internal magnetic field model. The analytical and tractable expressions are conveniently based on a vector formalism, which is independent of any coordinate system. This formalism is newly introduced in the widely used BAS HOTRAY code and tested for frequencies ranging from 1 to 20 kHz, covering lightning and navy transmitter frequencies. We show and quantify"
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Lower‐Hybrid‐Driven Whistler Generation During Active Ionospheric Heating at HAARP",
+    "link": "https://doi.org/10.1029/2026ja035171",
+    "doi": "10.1029/2026ja035171",
+    "published": "2026-8",
+    "summary": "Abstract \n                   Active high‐frequency (HF) heating experiments provide a controlled framework to investigate nonlinear wave coupling and plasma structuring in the ionosphere. In this study, we present a coordinated experiment utilizing the High Frequency Active Auroral Research Program (HAARP), combining HF heating of the F region with simultaneous extremely low/very‐low frequency (ELF/VLF) probing. Broadband ELF/VLF measurements obtained near the facility are analyzed together with"
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Response of Ionospheric Parameters at Low‐Latitude and Mid‐Latitude Stations to Geomagnetic Storms of March and April 2025",
+    "link": "https://doi.org/10.1029/2026ja035402",
+    "doi": "10.1029/2026ja035402",
+    "published": "2026-8",
+    "summary": "Abstract \n                   \n                    This study investigates ionospheric responses to geomagnetic storms of 21–24 March and 15–17 April 2025 using GNSS‐derived total electron content (TEC), magnetometer observations, and thermospheric O/N\n                     2 \n                    measurements at low and mid‐latitudes across the Northern Hemisphere of the Europe–Africa sector. The March storm reached a SYM‐H minimum of −72 nT, driven by a CME with a brief southward IMF‐Bz interval "
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Magnetosphere‐Ionosphere Current Systems During Sawtooth Oscillations of October 2024 Geomagnetic Storm",
+    "link": "https://doi.org/10.1029/2026ja035403",
+    "doi": "10.1029/2026ja035403",
+    "published": "2026-8",
+    "summary": "Abstract \n                   The magnetosphere can undergo periodic loading and unloading of magnetic energy, a mode of activity known as sawtooth oscillations. Whether individual oscillations represent intensified substorms or a distinct form of magnetospheric activity remains an open question. We investigate the magnetosphere–ionosphere (M–I) current systems during the sawtooth oscillations of the October 2024 geomagnetic storm to examine how the system reconfigures in space and time, using co"
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Statistical Characteristics and Mechanisms of Digisonde Echo Disappearances During Geomagnetic Storms",
+    "link": "https://doi.org/10.1029/2026ja035107",
+    "doi": "10.1029/2026ja035107",
+    "published": "2026-8",
+    "summary": "Abstract \n                   Geomagnetic storms, through the complex modulation of space weather, can disrupt observational instruments. During certain storms, digisonde observations exhibit complete echo disappearances, a phenomenon that has not been systematically investigated. We conducted a statistical analysis of this phenomenon using digisonde data from three stations of the Chinese Meridian Project (Mohe:122.2°E, 53.3°N; Wuhan:114.3°E, 30.3°N; Fuke:109.7°E, 19.3°N) over a solar cycle from"
+  },
+  {
+    "source": "IEEE - IEEE Photonics Journal",
+    "title": "Narrow Linewidth Butterfly Laser With Dual-Zone Thermally Symmetric TEC for FMCW LiDAR",
+    "link": "https://doi.org/10.1109/jphot.2026.3697770",
+    "doi": "10.1109/jphot.2026.3697770",
+    "published": "2026-8",
+    "summary": ""
+  }
+]
