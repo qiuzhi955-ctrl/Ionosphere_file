@@ -1,0 +1,153 @@
+[
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Variability of d\n                    <i>B</i>\n                    /d\n                    <i>t</i>\n                    in the African Sector During Solar Cycle 24—Implications for Geomagnetically Induced Currents",
+    "link": "https://doi.org/10.1029/2026sw005140",
+    "doi": "10.1029/2026sw005140",
+    "published": "2026-8",
+    "summary": "Abstract \n                   \n                    This paper quantitatively characterizes d\n                     B \n                    /d\n                     t \n                    peaks at four African equatorial‐ and low‐latitude stations, along latitudinal and local‐time gradients across different phases of selected geomagnetic storms. We investigate d\n                     B \n                    /d\n                     t \n                    response for intense geomagnetic storms, Dst ≤ −1"
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "An Ionospheric Storm Scale Index Based on TEC: Comparative Analysis for China Region",
+    "link": "https://doi.org/10.1029/2026sw004956",
+    "doi": "10.1029/2026sw004956",
+    "published": "2026-8",
+    "summary": "Abstract \n                   \n                    Defining a standardized ionospheric storm scale is challenging given the ionosphere's inherent complexity and susceptibility to multiple driving factors. In this study, a novel ionospheric storm scale (ISS) index is developed based on statistical analysis of total electron content (TEC) data from 257 ground‐based GNSS stations across China between 2008 and 2021. Designed for broad applicability, the index is independent of season, local time, and"
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Predicting Geomagnetic Activity in the Ascending and Declining Phases of the Solar Cycle",
+    "link": "https://doi.org/10.1029/2026sw004992",
+    "doi": "10.1029/2026sw004992",
+    "published": "2026-8",
+    "summary": "Abstract \n                   Most predictions of space climate, that is, the long‐term behavior of the solar‐terrestrial environment, have focused on forecasting the 11‐year sunspot cycle. Geomagnetic activity, on the other hand, has mainly been predicted in shorter, space weather timescales of up to days to weeks. Using a 180‐year composite  index, we aim to predict here the temporal behavior of geomagnetic activity over 16 last solar cycles. By identifying activity peaks in the ascending and d"
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "ESA Swarm Satellites Plasma Density Products: Comparison and Validation Against Incoherent Scatter Radars Observations",
+    "link": "https://doi.org/10.1029/2026sw005126",
+    "doi": "10.1029/2026sw005126",
+    "published": "2026-8",
+    "summary": "Abstract \n                   The European Space Agency's Swarm mission has provided over a decade of continuous in situ measurements of the topside ionospheric plasma. With the release of various official plasma density products and the development of several calibration methods, selecting the most reliable data set has become an important issue for the scientific community. This study presents a comprehensive validation of Swarm plasma density products, including the standard Langmuir Probes (L"
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Model‐Based Analysis of Ionospheric TEC Disturbances Over China and Adjacent Regions During the May 2024 Super Geomagnetic Storm",
+    "link": "https://doi.org/10.1029/2026sw005248",
+    "doi": "10.1029/2026sw005248",
+    "published": "2026-8",
+    "summary": "Abstract \n                   This study uses observation data from multi‐constellation (GPS/GLONASS/Galileo/BeiDou) ground‐based Global Navigation Satellite Systems (GNSS) networks and a non‐integrated spherical harmonic function modeling methodology to develop an ionospheric Total Electron Content (TEC) model with high spatiotemporal resolution (1° × 1° in longitude and latitude, and 15 min in time) over China and adjacent regions. The response of regional ionospheric TEC during the May 2024 su"
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Alfvénic Poynting Flux Characterized by a Substorm‐SMC Cycle and Ionospheric Influence",
+    "link": "https://doi.org/10.1029/2026sw005078",
+    "doi": "10.1029/2026sw005078",
+    "published": "2026-8",
+    "summary": "Abstract \n                   Geomagnetic substorms are fundamental processes of explosive geospace energy release within the Earth's magnetotail, which are usually divided into three phases: the growth phase, the expansion phase, and the recovery phase. Large‐scale electromagnetic energy transport during a geomagnetic substorm is in the form of Alfvén waves, transmitting energy from the distant magnetotail to the low‐altitude ionosphere‐thermosphere system. This explosive Alfvénic energy release"
+  },
+  {
+    "source": "AGU - AGU-Space Weather",
+    "title": "Auroral Effect on Mid‐Latitude Ionospheric Disturbances Over Europe During the Extreme Geomagnetic Storm of 10 May 2024",
+    "link": "https://doi.org/10.1029/2026sw005133",
+    "doi": "10.1029/2026sw005133",
+    "published": "2026-8",
+    "summary": "Abstract \n                   Large ionospheric disturbances were observed over Europe during the extreme geomagnetic storm on 10 May 2024. This study analyzes GNSS‐derived total electron content (TEC) and all‐sky imager data to investigate these disturbances. Pronounced TEC enhancements, irregularities, and strong gradients were confined to the auroral region above the mid‐latitudes. These anomalies evolved coherently with the equatorward expansion of the optical aurora. Large‐scale TEC disturba"
+  },
+  {
+    "source": "AGU - AGU-Radio Science",
+    "title": "Relationship Between Riometer Absorption and Medium‐ and High‐Frequency Auroral Absorption: Vertical Incidence",
+    "link": "https://doi.org/10.1029/2025rs008587",
+    "doi": "10.1029/2025rs008587",
+    "published": "2026-8",
+    "summary": "Abstract \n                   Some known factors influencing the accuracy of D‐ and E‐region ionospheric radio absorption estimates at auroral latitudes, determined from Riometer (Relative Ionospheric Opacity Meter) measurements of incident cosmic noise, are briefly reviewed. Then, measured and modeled height distributions of electron concentration at auroral latitudes, corresponding to various levels of auroral radio‐wave absorption determined by riometers, are analyzed. It is first confirmed th"
+  },
+  {
+    "source": "AGU - AGU-Radio Science",
+    "title": "Signal Data Stream Parameters Passing Ionospheric Communication Links With Fading Caused by Natural Clutter Phenomena",
+    "link": "https://doi.org/10.1029/2025rs008518",
+    "doi": "10.1029/2025rs008518",
+    "published": "2026-8",
+    "summary": "Abstract \n                   This paper explores the impact of natural phenomena on signal data transmission across various ionospheric communication channels. The study focuses on three primary phenomena: meteor trails prevalent in the middle‐ and lower‐latitude ionosphere, bubble and plume structures observed around the equatorial ionosphere, and magnetic‐storm‐induced plasma structures excited at higher latitudes. These phenomena contribute substantially to two types of fast fading: flat and "
+  },
+  {
+    "source": "AGU - AGU-Earth and Space Science",
+    "title": "On the Generation of Pre‐Sunrise Equatorial Plasma Bubbles in Southeast Asia During the Geomagnetic Storm of May 2024",
+    "link": "https://doi.org/10.1029/2025ea004969",
+    "doi": "10.1029/2025ea004969",
+    "published": "2026-8",
+    "summary": "Abstract \n                   A set of fresh Equatorial Plasma Bubbles (EPBs) formed during pre‐sunrise hours in the Southeast Asian sector amid the recovery phase of May 2024 geomagnetic storm. They offered new insights into their formation mechanism. This study used Total Electron Content (TEC) and Rate of TEC Index maps over Indonesia, along with ionosondes in Thailand and Vietnam, magnetometers in South American sectors, and prompt penetration electric field (PPEF) modeling, to reveal these i"
+  },
+  {
+    "source": "AGU - AGU-JGR-Machine Learning",
+    "title": "Improving Geomagnetic Perturbation Forecasts in the Southern Hemisphere via Kernel‐Based Encoding of Mirror Symmetry",
+    "link": "https://doi.org/10.1029/2026jh001299",
+    "doi": "10.1029/2026jh001299",
+    "published": "2026-8",
+    "summary": "Abstract \n                   Accurate forecasting of geomagnetic perturbations is essential for assessing space weather risk of geomagnetic activities. Thanks to decades of magnetometer observations from world‐wide distributed networks and upstream solar wind observations at L1, data‐driven modeling of global geomagnetic perturbations has become increasingly feasible. Such models are promising for operational use because they typically run at lower computational cost and can offer higher predict"
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Latitude Survey of Neutrons and Muons to Determine Cosmic Ray Neutron Sensing Yield Functions",
+    "link": "https://doi.org/10.1029/2026ja035434",
+    "doi": "10.1029/2026ja035434",
+    "published": "2026-8",
+    "summary": "Abstract \n                   Cosmic Ray Neutron Sensing (CRNS) is a ground‐based technique that utilizes epithermal neutron measurements as a proxy for environmental hydrogen content. Similarly to other ground‐based cosmic ray detectors (e.g., neutron monitors), CRNS detectors are affected by the solar cycle and space weather events. Typically, these effects must be corrected, but CRNS detectors have also been specifically used to observe space weather. The specific sensitivity of CRNS detectors"
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Neutral Wind Dynamics in High‐Latitude Regions During the 17 March 2013 Storm",
+    "link": "https://doi.org/10.1029/2025ja035032",
+    "doi": "10.1029/2025ja035032",
+    "published": "2026-8",
+    "summary": "Abstract \n                   \n                    Neutral winds play a critical role in transporting mass, momentum, and energy throughout the upper atmosphere. During geomagnetic storms, momentum is transferred to the thermosphere primarily through ion–neutral collisions, along with other forces. This study investigates high‐latitude neutral wind dynamics during the 17 March 2013 storm using the Global Ionosphere Thermosphere Model. We analyze the five acceleration terms—pressure gradient, visc"
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Investigating the Impact of Field‐Aligned Potential Drops on Auroral Energy Flux and Conductance: Insights From RCM‐I and RCM‐E Simulations",
+    "link": "https://doi.org/10.1029/2026ja035048",
+    "doi": "10.1029/2026ja035048",
+    "published": "2026-8",
+    "summary": "Abstract \n                   The effects of field‐aligned potential drops (FAPDs) on magnetosphere‐ionosphere (M–I) coupling are investigated under steady external driving, while allowing a time‐dependent bubble injection using the generalized Knight relation to convert field‐aligned currents to FAPDs. High‐resolution simulations with the Rice Convection Model‐Equilibrium and Rice Convection Model‐Inertialized reveal FAPDs' impact on auroral substorm characteristics. Including FAPDs, relative to"
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Vertical Propagation Characteristics of Multiple Medium‐Scale Traveling Ionospheric Disturbances at Low Latitudes",
+    "link": "https://doi.org/10.1029/2025ja034824",
+    "doi": "10.1029/2025ja034824",
+    "published": "2026-8",
+    "summary": "Abstract \n                   On the basis of observations from Sanya incoherent scatter radar (SYISR), we investigated the vertical structures of multiple medium‐scale traveling ionospheric disturbances (MSTIDs) over low latitudes on December 28, 2022. Nine MSTIDs were observed to occur continuously during the night (17:18–00:18 LT) at 150–250 km altitude. These MSTIDs are generated by gravity waves (GWs) propagating from the lower atmosphere. Among them, five GWs exhibit periods of 34–49 min an"
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "A Contrasting TEC Behavior Over the Low‐Latitude Post‐Midnight Sector During Recovery Phases of May and October 2024 Storms: Possible Role of PPEF, DDEF, and O/N\n                    <sub>2</sub>",
+    "link": "https://doi.org/10.1029/2026ja035110",
+    "doi": "10.1029/2026ja035110",
+    "published": "2026-8",
+    "summary": "Abstract \n                   \n                    The present study reports on the variability of the post‐midnight ionosphere over the low‐latitude sector during the recovery phases of the May and October 2024 storms. Multi‐instrument observations, comprising global navigation satellite system total electron content (TEC), F‐layer peak height, electron density profiles, and column O/N\n                     2 \n                    measurements, were employed to examine this variability. Interestin"
+  },
+  {
+    "source": "AGU - AGU-JGR-Space Physics",
+    "title": "Estimating the Ionization Rate of the Upper Atmosphere During X‐Class Solar Flares",
+    "link": "https://doi.org/10.1029/2025ja034767",
+    "doi": "10.1029/2025ja034767",
+    "published": "2026-8",
+    "summary": "Abstract \n                   This article examines the impact of solar flare electromagnetic radiation on the state and dynamics of the Earth's upper atmosphere and the applicability of experimental and theoretical methods for assessing changes in the upper ionosphere. One of the most important parameters of ionospheric disturbances is the ionization rate. The article presents data from calculating vertical profiles of the electron production rate for altitudes from 60 to 600 km for two X‐class "
+  },
+  {
+    "source": "Science - Science",
+    "title": "NASA mission predicts solar explosion’s arrival at Earth with stunning precision",
+    "link": "https://www.science.org/content/article/nasa-mission-predicts-solar-explosion-s-arrival-earth-stunning-precision",
+    "published": "2026-08-04",
+    "summary": "Satellite network known as PUNCH breaks record for forecasting space weather event"
+  },
+  {
+    "source": "IEEE - IEEE Transactions on Antennas and Propagation",
+    "title": "DGTD Analysis of Cloud-to-Cloud Lightning Pulse Propagation in the Earth-Ionosphere Waveguide",
+    "link": "https://doi.org/10.1109/tap.2026.3665919",
+    "doi": "10.1109/tap.2026.3665919",
+    "published": "2026-8",
+    "summary": ""
+  }
+]
